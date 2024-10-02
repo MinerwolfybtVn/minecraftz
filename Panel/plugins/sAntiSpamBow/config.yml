@@ -1,0 +1,87 @@
+
+#
+# Ресурс был скачан с сайта Mc-Forum.pro
+# Приятного использования!
+# Больше полезного для вашего сервера - https://mc-forum.pro/for-minecraft-server/
+# Наш Дискорд: https://discord.com/invite/EDJA7zTX6t
+#
+
+#
+#           █                ▄    ██   ▄█▀▀▀▄█                              ▀██▀▀█▄
+# ▄▄▄▄     ███    ▄▄ ▄▄▄   ▄██▄  ▄▄▄   ██▄▄  ▀  ▄▄▄ ▄▄▄   ▄▄▄▄   ▄▄ ▄▄ ▄▄    ██   ██    ▄▄▄   ▄▄▄ ▄▄▄ ▄▄▄
+#██▄ ▀    █  ██    ██  ██   ██    ██    ▀▀███▄   ██▀  ██ ▀▀ ▄██   ██ ██ ██   ██▀▀▀█▄  ▄█  ▀█▄  ██  ██  █
+#▄ ▀█▄▄  ▄▀▀▀▀█▄   ██  ██   ██    ██  ▄     ▀██  ██    █ ▄█▀ ██   ██ ██ ██   ██    ██ ██   ██   ███ ███
+#█▀▄▄█▀ ▄█▄  ▄██▄ ▄██▄ ██▄  ▀█▄▀ ▄██▄ █▀▄▄▄▄█▀   ██▄▄▄▀  ▀█▄▄▀█▀ ▄██ ██ ██▄ ▄██▄▄▄█▀   ▀█▄▄█▀    █   █
+#                                                ██
+#                                               ▀▀▀▀
+#
+#Who cares how the text is made, then here is the site: https://texteditor.com/multiline-text-art/
+#Кому интересно как сделан текст, то вот сайт: https://texteditor.com/multiline-text-art/
+#
+
+#Messages when configuration has been restarted
+#Сообщения когда конфигурация была перезапущена
+config-message-reloaded: '&a[sAntiSpamBow] - Конфигурация перезагружена!'
+
+#Messages when there are no rights to reload the plugin
+#Сообщения когда нет прав на перезагрузку плагина
+no-permission-message: '&c[sAntiSpamBow] - У вас недостаточно прав!'
+
+#Permission to reload the plugin (You can add your own rights here)
+#Право на перезагрузку плагина (Можно добавить сюда свои права)
+reload-permission: santispambow.reload
+
+#Turn on to check the rights of the players if you do not want to check the rights set to false - This disables the rights completely
+#players with OP rights and * will not be bypassed. And if set to true, then players with OP rights and * will not have restrictions
+#except for players who do not have the right
+#
+#Включите, чтобы проверять права у игроков если не хотите проверять права установите false - Это отключает полностью права
+#игроки с правами ОП и * не будут иметь обход. А если стоит true то игроки с правами ОП и * не будут иметь ограничений
+#кроме игроков у которых нет права
+bypass-permission-check: true
+
+#Right, which allows you to bypass the restriction on spam onions on RMB
+#Право, что позволяет обойти ограничение на спам луком на ПКМ
+bypass-permission: santispambow.bypass
+
+#Ability to turn off messages about not using the bow so often
+#Возможность отключить сообщения о том что нельзя использовать так часто лук
+spam-limit-messages: true
+
+#Message that says you can't use a bow that often
+#Сообщения, которое пишется что нельзя использовать так часто лук
+spam-limit-message: '&c[sAntiSpamBow] &8- &6Нельзя так часто использовать лук, подождите
+  немного!'
+
+#How many arrows do you need to shoot a player from a bow for the restriction to work
+#Сколько надо стрел чтобы выстрелить игроку из лука чтобы сработало ограничение
+spam-limit: 3
+
+#Do I need to clear the delay on using the bow after the reload command
+#Нужно ли очищать задержку на использование лука после команды перезагрузки
+clear-click-counts-on-reload-command: false
+
+#Do I need to clear the delay on using the bow after a server restart
+#Нужно ли очищать задержку на использование лука после перезагрузки сервера
+clear-click-counts-on-reload-server: true
+
+#After how long the restriction will be lifted (30 ticks = 1.5 seconds)
+#Через сколько будет снято ограничение (30 тиков = 1.5 секунда)
+click-interval: 30
+
+#Is it necessary to enable the sounds that will be played when the player has a limit on the use of a bow
+#Нужно ли включить звуки которые будет воспроизводиться когда игрок имеет лимит на использование лука
+play-blocked-sound-limit: true
+
+#Sound settings
+#Настрока звука
+blocked-sound-limit:
+  #Here you can set your sound - https://helpch.at/docs/1.19.3/org/bukkit/Sound.html
+  #Сдесь вы сможете установить свой звук - https://helpch.at/docs/1.19.3/org/bukkit/Sound.html
+  sound: ENTITY_VILLAGER_NO
+  #The "volume" parameter is responsible for the volume of the sound. A value of "1.0" means the loudest sound, while values less than "1.0" mean quieter sounds.
+  #Параметр "volume" отвечает за громкость звука. Значение "1.0" означает максимальную громкость звука, а значения менее "1.0" означают более тихие звуки.
+  volume: 1.0
+  #The "pitch" parameter is responsible for the tone of the sound. A value of "1.0" means a normal sound tone, while values less than "1.0" mean a lower tone, and values greater than "1.0" mean a higher tone.
+  #Параметр "pitch" отвечает за тон звука. Значение "1.0" означает нормальный тон звука, а значения менее "1.0" означают более низкий тон, а значения больше "1.0" - более высокий тон.
+  pitch: 1.0

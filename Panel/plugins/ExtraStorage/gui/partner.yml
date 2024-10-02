@@ -1,0 +1,95 @@
+Settings:
+  Title: '         &0ĐỐI TÁC KHO LƯU TRỮ'
+  Rows: 6
+
+  DefaultSort: NAME
+
+  Sound: 'ui_button_click'
+
+RepresentItem:
+  Material: 'PLAYER_HEAD'
+  Amount: 1 #Có thể không cần cấu hình.
+  Data: 0 #Có thể không cần cấu hình.
+  CustomModelData: 0 #Chỉ sử dụng cho phiên bản server 1.14+. Có thể không cần cấu hình.
+  Texture: '%partner%'
+  Name: '&fĐối tác: &6{partner}' #Có thể không cần cấu hình.
+  Lore: #Có thể không cần cấu hình.
+  - ''
+  - '&7+ Thời gian: &f{time}'
+  - ''
+  - '&8[&6ᴄʟɪᴄᴋ&8] &7Xóa đối tác này'
+  - '&7khỏi danh sách của bạn.'
+  Slots: [11-17, 20-26, 29-35]
+
+ControlItems:
+  About:
+    Model: '' #Có thể không cần cấu hình.
+    Material: 'PAPER'
+    Name: '#dcdde1DANH SÁCH ĐỐI TÁC CỦA BẠN'
+    Lore: #Có thể không cần cấu hình.
+    - ''
+    - '&7+ Tổng số đối tác: &a{total_partners}'
+    - ''
+    - '&8[&6s.ᴄʟɪᴄᴋ&8] &7Dọn dẹp danh sách của bạn.'
+    Slot: 50
+  PreviousPage:
+    Material: 'ARROW'
+    Name: '&8[&6ᴄʟɪᴄᴋ&8] #dcdde1TRANG TRƯỚC'
+    Lore:
+    - '&7TRANG HIỆN TẠI: &f{page}&7/&c{max_pages}'
+    Slot: 48
+  NextPage:
+    Material: 'ARROW'
+    Name: '&8[&6ᴄʟɪᴄᴋ&8] #dcdde1TRANG TIẾP THEO'
+    Lore:
+    - '&7TRANG HIỆN TẠI: &f{page}&7/&c{max_pages}'
+    Slot: 52
+
+  SwitchGui:
+    Material: 'CHEST_MINECART'
+    Name: '#dcdde1CHUYỂN ĐẾN KHO LƯU TRỮ KHÁC'
+    Lore:
+    - ''
+    - '&2→ &aĐối tác'
+    - '&8 ● &7Lọc'
+    - '&8 ● &7Kho lưu trữ'
+    - '&8 ● &7Bán hàng'
+    - ''
+    - '&8[&6ʟ.ᴄʟɪᴄᴋ&8] #dcdde1KHO LƯU TRỮ TIẾP THEO'
+    - '&8[&6ʀ.ᴄʟɪᴄᴋ&8] #dcdde1KHO LƯU TRỮ TRƯỚC'
+    Slot: 49
+
+  SortByName:
+    Material: 'BOOK'
+    Name: '&fSắp xếp đối tác'
+    Lore:
+    - ''
+    - '&2→ &aTheo tên đối tác'
+    - '&8 ● &7Theo thời gian'
+    - ''
+    - '&8[&6ʟ.ᴄʟɪᴄᴋ&8] #dcdde1BỘ LỌC TIẾP THEO'
+    - '&8[&6ʀ.ᴄʟɪᴄᴋ&8] #dcdde1BỘ LỌC TRƯỚC'
+    - '&8[&6s.ᴄʟɪᴄᴋ&8] #dcdde1ĐẢO NGƯỢC BỘ LỌC'
+    Slot: 51
+  SortByTime:
+    Material: 'BOOK'
+    Name: '&fSắp xếp đối tác'
+    Lore:
+    - ''
+    - '&8 ● &7Theo tên đối tác'
+    - '&2→ &aTheo thời gian'
+    - ''
+    - '&8[&6ʟ.ᴄʟɪᴄᴋ&8] #dcdde1BỘ LỌC TIẾP THEO'
+    - '&8[&6ʀ.ᴄʟɪᴄᴋ&8] #dcdde1BỘ LỌC TRƯỚC'
+    - '&8[&6s.ᴄʟɪᴄᴋ&8] #dcdde1ĐẢO NGƯỢC BỘ LỌC'
+    Slot: 51
+
+DecorateItems:
+  border:
+    Material: 'BLACK_STAINED_GLASS_PANE'
+    Name: ' '
+    Slots: [0-10, 18, 19, 27, 28, 36, 37, 45, 46-48, 52-54]
+  divider:
+    Material: 'GRAY_STAINED_GLASS_PANE'
+    Name: ' '
+    Slots: [38-44]

@@ -1,0 +1,38 @@
+debug: INFO
+generalSettings:
+  ==: pickMeUpGeneralSettings
+  language: en_US
+  updateCheck: true
+carrySettings:
+  ==: pickMeUpCarrySettings
+  throwForce: 2.0
+  allowStacking: true
+mobSettings:
+  ==: pickMeUpMobSettings
+  allowedMobs:
+  - PIG
+  - CHICKEN
+  - RABBIT
+  - WOLF
+  - BOAT
+  - SHEEP
+  - PARROT
+  - PLAYER
+  - COW
+  - PANDA
+  - CAT
+  - VILLAGER
+  - ZOMBIE
+  - SKELETON
+  - CREEPER
+  - SPIDER
+  - IRON_GOLEM
+  - RAVAGER
+  requirePermission: false
+  blacklist: false
+worldSettings:
+  ==: pickMeUpWorldSettings
+  restrictWorlds: false
+  blacklist: false
+  worlds:
+  - world

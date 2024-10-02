@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 123.31.169.49
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1726840497786
+  login: 1726840496921
+money: '0'
+last-account-name: ThPhzcc
+logoutlocation:
+  world: 4446dd65-ac25-413b-b00a-e4a07ffeb151
+  world-name: world
+  x: 208.0
+  y: 76.6537296175886
+  z: -304.0
+  yaw: -63.93157958984375
+  pitch: 42.54183578491211

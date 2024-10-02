@@ -1,0 +1,48 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: true
+ip-address: 14.234.130.232
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1726837214660
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1726967676127
+  login: 1726967556879
+money: '0'
+last-account-name: khoikopro123
+homes:
+  home:
+    world: 4446dd65-ac25-413b-b00a-e4a07ffeb151
+    world-name: world
+    x: 90.82453496580109
+    y: 63.0
+    z: -936.6841792659989
+    yaw: 40.57423400878906
+    pitch: 23.849994659423828
+logoutlocation:
+  world: 4446dd65-ac25-413b-b00a-e4a07ffeb151
+  world-name: world
+  x: 92.45431913530648
+  y: 66.12160004615784
+  z: -900.7578869102222
+  yaw: -106.21856689453125
+  pitch: 23.249958038330078
+lastlocation:
+  world: 3e1fa739-0c71-4f90-a491-508eb1d9a6bf
+  world-name: world_nether
+  x: -432.7063064815304
+  y: 39.231523797587016
+  z: 90.56057218660193
+  yaw: -90.38851165771484
+  pitch: 40.05023193359375
+jail: khoikopro123

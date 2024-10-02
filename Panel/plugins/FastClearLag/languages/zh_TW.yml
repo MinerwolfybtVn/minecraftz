@@ -1,0 +1,38 @@
+# vi-VN dịch bởi MinhXiBi
+
+prefix: '&c&lDọn Rác &c▎ &r'
+no-permissions: '&fʙạɴ ᴋʜôɴɢ ᴄó ǫᴜʏềɴ sử ᴅụɴɢ ʟệɴʜ ɴàʏ!'
+usage: '&fsử ᴅụɴɢ &c/%label% %args%'
+reload: '&fđã ʀᴇʟᴏᴀᴅ ᴘʟᴜɢɪɴ.'
+help:
+  head:
+    - '&4&l▎ &c&l ғᴀsᴛᴄʟᴇᴀʀʟᴀɢ '
+    - '&4&l▎ '
+  line-format: '&4&l▎ &c/%label% %args%'
+logs:
+  opening: '&fĐᴀɴɢ ᴍở ᴍᴇɴᴜ...'
+  empty: '&fᴋʜôɴɢ ᴛìᴍ ᴛʜấʏ ɴʜậᴛ ᴋý...'
+  menu:
+    title: '&7ɴʜậᴛ ᴋʜí xóᴀ ᴠậᴛ ᴘʜẩᴍ (ᴄʟᴇᴀʀʟᴀɢ)'
+    item:
+      date-format: 'MM/dd/yyyy HH:mm:ss'
+      name: '&c&lɴʜậᴛ ᴋí #%id%'
+      lore:
+        - '&7%date%'
+        - ''
+        - '&fxóᴀ ᴠậᴛ ᴘʜẩᴍ: &c%items%'
+        - '&fxóᴀ sɪɴʜ ᴠậᴛ: &c%entities%'
+        - ''
+        - '&fᴛᴘs sᴀᴜ ᴋʜɪ xóᴀ: &c%tps%'
+        - '&fɴɢườɪ ᴄʜơɪ: &c%players%'
+        - ''
+graph:
+  showing: '&fʜɪểɴ ᴛʜị &c%type% &fʙɪểᴜ đồ ᴄʜứᴀ &c%amount% ɴʜậᴛ ᴋý&f ᴄᴜốɪ ᴄùɴɢ.'
+  empty: '&fᴋʜôɴɢ ᴛìᴍ ᴛʜấʏ ɴʜậᴛ ᴋý... ᴋʜôɴɢ ᴛʜể ᴛạᴏ ʙấᴛ ᴋỳ ʙɪểᴜ đồ ɴàᴏ.'
+  symbols:
+    data: '&c|'
+    empty: '&7|'
+clear:
+  all: '&fxóᴀ ᴛʜàɴʜ ᴄôɴɢ ᴛấᴛ ᴄả ᴍọɪ ᴛʜứ.'
+  items: '&fxóᴀ ᴛʜàɴʜ ᴄôɴɢ ᴛấᴛ ᴄả ᴠậᴛ ᴘʜẩᴍ.'
+  entities: '&fxóᴀ ᴛʜàɴʜ ᴄôɴɢ ᴛấᴛ ᴄả sɪɴʜ ᴠậᴛ.'

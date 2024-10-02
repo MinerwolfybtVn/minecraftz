@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 113.178.176.89
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727836041684
+  login: 1727836037674
+money: '0'
+last-account-name: GiaThink
+logoutlocation:
+  world: 4446dd65-ac25-413b-b00a-e4a07ffeb151
+  world-name: world
+  x: 220.3419230854174
+  y: -58.0
+  z: -388.7922141014216
+  yaw: 48.84654235839844
+  pitch: -24.140239715576172

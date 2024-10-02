@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 14.169.116.73
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727447927764
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727721115206
+  login: 1727707989090
+money: '0'
+last-account-name: krostedjulie
+logoutlocation:
+  world: 4446dd65-ac25-413b-b00a-e4a07ffeb151
+  world-name: world
+  x: 159.22737187584292
+  y: 24.0
+  z: -989.0976333046048
+  yaw: -47.625732421875
+  pitch: 19.649456024169922
+lastlocation:
+  world: 89e01985-4203-4993-accc-0d70266a4e3d
+  world-name: world_the_end
+  x: 285.8673330050169
+  y: 1.0
+  z: -10.714027616687442
+  yaw: -54.162559509277344
+  pitch: 16.950035095214844

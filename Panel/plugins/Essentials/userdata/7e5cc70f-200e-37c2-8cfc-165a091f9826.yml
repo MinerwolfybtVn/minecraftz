@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 113.23.49.173
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727796201498
+  login: 1727793766642
+money: '0'
+last-account-name: kemhehe
+logoutlocation:
+  world: 4446dd65-ac25-413b-b00a-e4a07ffeb151
+  world-name: world
+  x: 184.94410178417698
+  y: 68.0
+  z: -900.8721298171956
+  yaw: -111.6015625
+  pitch: 28.950027465820312

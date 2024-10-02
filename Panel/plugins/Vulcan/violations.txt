@@ -1,0 +1,598 @@
+[09-28-2024] [20:56:06] Caothanh2008 failed Elytra (Type K) [VL: 1] [Ping: 17] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.513861328030912 accel=true ticks=11
+[09-28-2024] [20:56:06] Caothanh2008 failed Elytra (Type K) [VL: 2] [Ping: 17] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.5703048711583835 accel=true ticks=14
+[09-28-2024] [20:56:06] Caothanh2008 failed Elytra (Type K) [VL: 3] [Ping: 17] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.6407042512347588 accel=true ticks=17
+[09-28-2024] [20:56:06] Caothanh2008 failed Elytra (Type K) [VL: 4] [Ping: 17] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.7455040945723342 accel=true ticks=20
+[09-28-2024] [20:56:06] Caothanh2008 failed Elytra (Type G) [VL: 1] [Ping: 17] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.03961017457308169 deltaXZ=0.7851142691454159 deltaY=0.2484724515415735
+[09-28-2024] [20:56:07] Caothanh2008 failed Elytra (Type K) [VL: 5] [Ping: 17] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.8662161355128555 accel=true ticks=23
+[09-28-2024] [20:56:07] Caothanh2008 failed Elytra (Type G) [VL: 2] [Ping: 17] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.03462800301216251 deltaXZ=0.900844138525018 deltaY=0.4037842459372456
+[09-28-2024] [20:56:10] Caothanh2008 failed Elytra (Type K) [VL: 6] [Ping: 17] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.5092430342606535 accel=true ticks=7
+[09-28-2024] [20:56:10] Caothanh2008 failed Elytra (Type K) [VL: 7] [Ping: 17] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.6214235386283855 accel=true ticks=10
+[09-28-2024] [20:56:11] Caothanh2008 failed Elytra (Type C) [VL: 1] [Ping: 17] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.0366087747563969 deltaXZ=0.6580323133847824 deltaY=0.528546211749287
+[09-28-2024] [20:56:11] Caothanh2008 failed Elytra (Type K) [VL: 8] [Ping: 17] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.7236519769035833 accel=true ticks=13
+[09-28-2024] [20:56:11] Caothanh2008 failed Elytra (Type G) [VL: 3] [Ping: 17] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.032789441572136147 deltaXZ=0.7564414184757194 deltaY=0.4274302713548792
+[09-28-2024] [20:56:11] Caothanh2008 failed Elytra (Type K) [VL: 9] [Ping: 17] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.822104384583074 accel=true ticks=16
+[09-28-2024] [20:56:11] Caothanh2008 failed Elytra (Type G) [VL: 4] [Ping: 17] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.034603270592378665 deltaXZ=0.8567076551754527 deltaY=0.3310260588904015
+[09-28-2024] [20:56:11] Caothanh2008 failed Elytra (Type K) [VL: 10] [Ping: 17] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.927126684036624 accel=true ticks=19
+[09-28-2024] [20:56:11] Caothanh2008 failed Elytra (Type G) [VL: 5] [Ping: 18] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.035099898226689796 deltaXZ=0.9622265822633138 deltaY=0.2377776393059321
+[09-28-2024] [20:56:11] Caothanh2008 failed Elytra (Type K) [VL: 11] [Ping: 18] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=1.0302640134514576 accel=true ticks=22
+[09-28-2024] [20:56:12] Caothanh2008 failed Elytra (Type G) [VL: 6] [Ping: 18] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.05891963720504512 deltaXZ=1.093470823635826 deltaY=-0.2518018858591091
+[09-28-2024] [20:56:12] Caothanh2008 failed Elytra (Type C) [VL: 2] [Ping: 18] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.058996228377495186 deltaXZ=1.211392018052915 deltaY=-0.2534882628416568
+[09-28-2024] [20:56:12] Caothanh2008 failed Elytra (Type G) [VL: 7] [Ping: 18] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.05877310837120442 deltaXZ=1.2701651264241194 deltaY=-0.25269580898604715
+[09-28-2024] [21:16:33] Caothanh2008 failed Elytra (Type C) [VL: 1] [Ping: 11] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.04928139244992236 deltaXZ=0.3397611032514054 deltaY=-0.027310767614892484
+[09-28-2024] [21:16:33] Caothanh2008 failed Elytra (Type C) [VL: 2] [Ping: 11] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.05191207136179821 deltaXZ=0.49322445706317125 deltaY=-0.06937559724659081
+[09-28-2024] [21:16:34] Caothanh2008 failed Elytra (Type C) [VL: 3] [Ping: 11] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.053201397387396376 deltaXZ=0.6517831363856482 deltaY=-0.09846471895947673
+[09-28-2024] [21:16:34] Caothanh2008 failed Elytra (Type C) [VL: 4] [Ping: 11] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.05357905039087896 deltaXZ=0.812307780200728 deltaY=-0.11858074009722941
+[09-28-2024] [21:16:34] Caothanh2008 failed Elytra (Type G) [VL: 1] [Ping: 11] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.05357905039087896 deltaXZ=0.812307780200728 deltaY=-0.11858074009722941
+[09-28-2024] [21:16:34] Caothanh2008 failed Elytra (Type G) [VL: 2] [Ping: 11] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.053341555402703356 deltaXZ=0.9726807998867432 deltaY=-0.13249158657819748
+[09-28-2024] [21:16:34] Caothanh2008 failed Elytra (Type G) [VL: 3] [Ping: 11] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.05269348697056864 deltaXZ=1.1314827484408396 deltaY=-0.14211136419187653
+[09-28-2024] [21:17:15] Caothanh2008 failed Elytra (Type C) [VL: 1] [Ping: 18] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.060714269538729826 deltaXZ=0.4122392677395657 deltaY=-0.21362386353757756
+[09-28-2024] [21:17:17] Caothanh2008 failed Elytra (Type C) [VL: 2] [Ping: 18] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.04494154455966859 deltaXZ=0.4819969261803728 deltaY=0.0575220338890432
+[09-28-2024] [21:17:17] Caothanh2008 failed Elytra (Type C) [VL: 3] [Ping: 18] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.0450144188565208 deltaXZ=0.6154361430190007 deltaY=-0.017502472915779776
+[09-28-2024] [21:17:18] Caothanh2008 failed Elytra (Type C) [VL: 4] [Ping: 18] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.04855041142045402 deltaXZ=0.757672944103 deltaY=-0.07085718274555575
+[09-28-2024] [21:17:18] Caothanh2008 failed Elytra (Type G) [VL: 1] [Ping: 18] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.04947128535745826 deltaXZ=0.8071442294604583 deltaY=-0.08477930829261027
+[09-28-2024] [21:17:18] Caothanh2008 failed Elytra (Type C) [VL: 5] [Ping: 19] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.05096171755195322 deltaXZ=0.9083855732693107 deltaY=-0.10767271995261751
+[09-28-2024] [21:17:18] Caothanh2008 failed Elytra (Type G) [VL: 2] [Ping: 19] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.05121093265027088 deltaXZ=0.9595965059195816 deltaY=-0.11703605476527912
+[09-28-2024] [21:17:18] Caothanh2008 failed Elytra (Type C) [VL: 6] [Ping: 19] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.051202975389047056 deltaXZ=1.0618920968451868 deltaY=-0.13274952010182517
+[09-28-2024] [21:17:18] Caothanh2008 failed Elytra (Type G) [VL: 3] [Ping: 19] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.0513155012626092 deltaXZ=1.113207598107796 deltaY=-0.1391697456453187
+[09-28-2024] [21:17:18] Caothanh2008 failed Elytra (Type C) [VL: 7] [Ping: 19] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.051238129594834536 deltaXZ=1.2157396482955096 deltaY=-0.1496177925104405
+[09-28-2024] [21:17:18] Caothanh2008 failed Elytra (Type G) [VL: 4] [Ping: 19] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.04462183976478462 deltaXZ=1.2603614880602942 deltaY=-0.08285205501778137
+[09-28-2024] [21:17:18] Caothanh2008 failed Elytra (Type C) [VL: 8] [Ping: 19] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.03650616965743092 deltaXZ=1.3354526745548352 deltaY=0.03398128308769799
+[09-28-2024] [21:17:18] Caothanh2008 failed Elytra (Type G) [VL: 5] [Ping: 19] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.03600139909399713 deltaXZ=1.3714540736488323 deltaY=0.08726724384028728
+[09-28-2024] [21:17:18] Caothanh2008 failed Elytra (Type K) [VL: 1] [Ping: 19] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=1.3714540736488323 accel=true ticks=26
+[09-28-2024] [21:17:18] Caothanh2008 failed Elytra (Type K) [VL: 2] [Ping: 19] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=1.4466197302756774 accel=true ticks=29
+[09-28-2024] [21:17:23] Caothanh2008 failed Elytra (Type C) [VL: 9] [Ping: 19] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.05792273347381505 deltaXZ=0.6142354738641814 deltaY=-0.2134252906728875
+[09-28-2024] [21:17:23] Caothanh2008 failed Elytra (Type G) [VL: 6] [Ping: 19] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.05900840708704147 deltaXZ=0.731763229212396 deltaY=-0.24768328923276783
+[09-28-2024] [21:17:23] Caothanh2008 failed Elytra (Type C) [VL: 10] [Ping: 19] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.0593999132519939 deltaXZ=0.7911631424643899 deltaY=-0.26263775069521955
+[09-28-2024] [21:17:23] Caothanh2008 failed Elytra (Type G) [VL: 7] [Ping: 19] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.05987580406613291 deltaXZ=0.9107418743529776 deltaY=-0.2889787756681983
+[09-28-2024] [21:17:23] Caothanh2008 failed Elytra (Type C) [VL: 11] [Ping: 19] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.059737928541821916 deltaXZ=0.9704798028947995 deltaY=-0.3014634440331605
+[09-28-2024] [21:17:23] Caothanh2008 failed Elytra (Type G) [VL: 8] [Ping: 19] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.05920778344462385 deltaXZ=1.0891953505809273 deltaY=-0.3255091164252093
+[09-28-2024] [21:17:23] Caothanh2008 failed Elytra (Type C) [VL: 12] [Ping: 19] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.059362420492265366 deltaXZ=1.1485577710731927 deltaY=-0.33631923809331
+[09-28-2024] [21:17:23] Caothanh2008 failed Elytra (Type G) [VL: 9] [Ping: 19] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.059505981486024595 deltaXZ=1.2675352352850087 deltaY=-0.3553168656248715
+[09-28-2024] [21:17:23] Caothanh2008 failed Elytra (Type C) [VL: 13] [Ping: 19] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.059476978510674794 deltaXZ=1.3270122137956835 deltaY=-0.3636477224123098
+[09-28-2024] [21:20:09] Caothanh2008 failed Elytra (Type C) [VL: 14] [Ping: 22] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.04371023797733542 deltaXZ=0.5310219298110265 deltaY=0.017664089059678645
+[09-28-2024] [21:20:10] Caothanh2008 failed Elytra (Type G) [VL: 10] [Ping: 22] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.035573963819592436 deltaXZ=1.1176170478760843 deltaY=0.35875839319153613
+[09-28-2024] [21:20:10] Caothanh2008 failed Elytra (Type K) [VL: 3] [Ping: 22] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=1.150950509035997 accel=true ticks=22
+[09-28-2024] [21:20:43] Caothanh2008 failed Elytra (Type K) [VL: 4] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.42716086236302014 accel=true ticks=11
+[09-28-2024] [21:20:43] Caothanh2008 failed Elytra (Type K) [VL: 5] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.5412462747920292 accel=true ticks=14
+[09-28-2024] [21:20:43] Caothanh2008 failed Elytra (Type C) [VL: 15] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.03675436453166603 deltaXZ=0.5780006393236953 deltaY=0.8997264310042397
+[09-28-2024] [21:21:03] Caothanh2008 failed Elytra (Type C) [VL: 1] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.03963926691368236 deltaXZ=0.6613307009048643 deltaY=0.31406995796484694
+[09-28-2024] [21:21:03] Caothanh2008 failed Elytra (Type K) [VL: 1] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.6613307009048643 accel=true ticks=10
+[09-28-2024] [21:21:03] Caothanh2008 failed Elytra (Type C) [VL: 2] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.03784878791787882 deltaXZ=0.776696753499615 deltaY=0.27501905631719126
+[09-28-2024] [21:21:03] Caothanh2008 failed Elytra (Type G) [VL: 1] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.03784878791787882 deltaXZ=0.776696753499615 deltaY=0.27501905631719126
+[09-28-2024] [21:21:03] Caothanh2008 failed Elytra (Type K) [VL: 2] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.776696753499615 accel=true ticks=13
+[09-28-2024] [21:21:03] Caothanh2008 failed Elytra (Type C) [VL: 3] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.0354126810928429 deltaXZ=0.8853081323617894 deltaY=0.24927428852994638
+[09-28-2024] [21:21:03] Caothanh2008 failed Elytra (Type G) [VL: 2] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.0354126810928429 deltaXZ=0.8853081323617894 deltaY=0.24927428852994638
+[09-28-2024] [21:21:03] Caothanh2008 failed Elytra (Type K) [VL: 3] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.8853081323617894 accel=true ticks=16
+[09-28-2024] [21:21:32] Caothanh2008 failed Elytra (Type K) [VL: 4] [Ping: 11] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.5699493712824516 accel=true ticks=8
+[09-28-2024] [21:21:32] Caothanh2008 failed Elytra (Type K) [VL: 5] [Ping: 15] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.6752325550542428 accel=true ticks=11
+[09-28-2024] [21:21:32] Caothanh2008 failed Elytra (Type K) [VL: 6] [Ping: 15] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.7625030390591044 accel=true ticks=14
+[09-28-2024] [21:21:32] Caothanh2008 failed Elytra (Type K) [VL: 7] [Ping: 15] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.8285025032335306 accel=true ticks=17
+[09-28-2024] [21:21:33] Caothanh2008 failed Elytra (Type K) [VL: 8] [Ping: 15] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.8906766184569942 accel=true ticks=20
+[09-28-2024] [21:22:45] Caothanh2008 failed Elytra (Type K) [VL: 9] [Ping: 21] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.40647414412987337 accel=true ticks=8
+[09-28-2024] [21:22:45] Caothanh2008 failed Elytra (Type C) [VL: 4] [Ping: 21] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.0434989796562219 deltaXZ=0.46231152361806127 deltaY=0.748501449108204
+[09-28-2024] [21:22:45] Caothanh2008 failed Elytra (Type K) [VL: 10] [Ping: 21] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.5494858314348717 accel=true ticks=17
+[09-28-2024] [21:22:46] Caothanh2008 failed Elytra (Type G) [VL: 3] [Ping: 21] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.048349315532148496 deltaXZ=0.8256846167723989 deltaY=-0.1095761827786248
+[09-28-2024] [21:22:46] Caothanh2008 failed Elytra (Type C) [VL: 5] [Ping: 21] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.04170265922624172 deltaXZ=0.8673872759986406 deltaY=-0.04585992842315534
+[09-28-2024] [21:22:46] Caothanh2008 failed Elytra (Type G) [VL: 4] [Ping: 21] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.037764249548289164 deltaXZ=0.9426049623885602 deltaY=0.06831002176276968
+[09-28-2024] [21:22:46] Caothanh2008 failed Elytra (Type C) [VL: 6] [Ping: 21] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.035123905074213035 deltaXZ=0.9777288674627732 deltaY=0.12372340670646054
+[09-28-2024] [21:22:46] Caothanh2008 failed Elytra (Type K) [VL: 11] [Ping: 21] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.9777288674627732 accel=true ticks=31
+[09-28-2024] [21:23:12] Caothanh2008 failed Elytra (Type C) [VL: 7] [Ping: 22] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.0423082886101428 deltaXZ=0.5482391527794973 deltaY=0.3911864217433134
+[09-28-2024] [21:23:12] Caothanh2008 failed Elytra (Type K) [VL: 12] [Ping: 22] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.6332308423445311 accel=true ticks=10
+[09-28-2024] [21:23:12] Caothanh2008 failed Elytra (Type C) [VL: 8] [Ping: 22] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.04227374198730194 deltaXZ=0.675504584331833 deltaY=0.5277147911072717
+[09-28-2024] [21:23:12] Caothanh2008 failed Elytra (Type G) [VL: 5] [Ping: 22] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.04157201835651825 deltaXZ=0.7589855472954472 deltaY=0.46026013720755543
+[09-28-2024] [21:23:12] Caothanh2008 failed Elytra (Type K) [VL: 13] [Ping: 22] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.7589855472954472 accel=true ticks=13
+[09-28-2024] [21:23:12] Caothanh2008 failed Elytra (Type C) [VL: 9] [Ping: 22] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.04135662221881575 deltaXZ=0.800342169514263 deltaY=0.42757296271906853
+[09-28-2024] [21:23:13] Caothanh2008 failed Elytra (Type G) [VL: 6] [Ping: 22] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.04078261949509454 deltaXZ=0.8822127561580317 deltaY=0.36414676749618025
+[09-28-2024] [21:23:13] Caothanh2008 failed Elytra (Type K) [VL: 14] [Ping: 22] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.8822127561580317 accel=true ticks=16
+[09-28-2024] [21:23:13] Caothanh2008 failed Elytra (Type C) [VL: 10] [Ping: 22] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.04045210852218872 deltaXZ=0.9226648646802205 deltaY=0.33338185856871405
+[09-28-2024] [21:23:13] Caothanh2008 failed Elytra (Type G) [VL: 7] [Ping: 22] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.03982128068965707 deltaXZ=1.0026362819600485 deltaY=0.2735578895012907
+[09-28-2024] [21:23:13] Caothanh2008 failed Elytra (Type K) [VL: 15] [Ping: 22] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=1.0026362819600485 accel=true ticks=19
+[09-28-2024] [21:37:06] Caothanh2008 failed Jump (Type B) [VL: 1] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.8748643620426293 limit=0.41999998688697815 tp=893
+[09-28-2024] [21:37:17] Caothanh2008 failed Jump (Type B) [VL: 2] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=1.2870784783363405 limit=0.41999998688697815 tp=1102
+[09-28-2024] [21:37:17] Caothanh2008 failed Speed (Type B) [VL: 2] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=3.4553171041666046 max=0.7455 diff=2.7098171041666044 ticks=0 deltaY=1.2870784783363405
+[09-28-2024] [21:37:17] Caothanh2008 failed Speed (Type C) [VL: 2] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=3.4553171041666046 max=0.45999999999999996 diff=2.9953171041666047 ticks=196 deltaY=1.2870784783363405
+[09-28-2024] [21:37:17] Caothanh2008 failed Speed (Type D) [VL: 2] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=3.4553171041666046 max=0.7955 diff=2.6598171041666046 ticks=0 deltaY=1.2870784783363405 tp=1102
+[09-28-2024] [21:37:48] khoi1309 failed Ground Spoof (Type A) [VL: 1] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.7811331932098824 ticks=1
+[09-28-2024] [21:37:48] khoi1309 failed Ground Spoof (Type C) [VL: 1] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8439105457704983 airTicks=1
+[09-28-2024] [21:37:48] khoi1309 failed VClip (Type A) [VL: 1] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8439105457704983 ticks=1
+[09-28-2024] [21:37:48] khoi1309 failed VClip (Type A) [VL: 2] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9054323524772769 ticks=1
+[09-28-2024] [21:37:48] khoi1309 failed VClip (Type A) [VL: 3] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9657237242233663 ticks=1
+[09-28-2024] [21:37:56] Caothanh2008 failed Ground Spoof (Type A) [VL: 1] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.7811331932098824 ticks=1
+[09-28-2024] [21:37:56] Caothanh2008 failed Ground Spoof (Type C) [VL: 1] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8439105457704983 airTicks=1
+[09-28-2024] [21:40:17] khoi1309 failed Ground Spoof (Type A) [VL: 2] [Ping: 40] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.7787179775404667 ticks=1
+[09-28-2024] [21:40:17] khoi1309 failed Ground Spoof (Type C) [VL: 2] [Ping: 40] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8415436343683922 airTicks=1
+[09-28-2024] [21:40:17] khoi1309 failed VClip (Type A) [VL: 4] [Ping: 40] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8415436343683922 ticks=1
+[09-28-2024] [21:40:17] khoi1309 failed VClip (Type A) [VL: 5] [Ping: 40] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9031127792580804 ticks=1
+[09-28-2024] [21:40:17] khoi1309 failed VClip (Type A) [VL: 6] [Ping: 40] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9634505424243116 ticks=1
+[09-28-2024] [21:40:17] khoi1309 failed VClip (Type A) [VL: 7] [Ping: 40] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.022581551478055 ticks=1
+[09-28-2024] [21:43:19] khoi1309 failed VClip (Type A) [VL: 1] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8415436343683922 ticks=1
+[09-28-2024] [21:43:19] khoi1309 failed VClip (Type A) [VL: 2] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9031127792580804 ticks=1
+[09-28-2024] [21:44:38] Caothanh2008 failed Ground Spoof (Type C) [VL: 1] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8415436343683922 airTicks=1
+[09-28-2024] [21:46:17] khoi1309 failed VClip (Type A) [VL: 3] [Ping: 40] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8415436343683993 ticks=1
+[09-28-2024] [21:56:31] khoi1309 failed Ground Spoof (Type A) [VL: 1] [Ping: 37] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.7787179775404667 ticks=1
+[09-28-2024] [21:56:31] khoi1309 failed Ground Spoof (Type C) [VL: 1] [Ping: 37] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8415436343683922 airTicks=1
+[09-28-2024] [21:56:31] khoi1309 failed VClip (Type A) [VL: 1] [Ping: 37] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8415436343683922 ticks=1
+[09-28-2024] [21:56:31] khoi1309 failed VClip (Type A) [VL: 2] [Ping: 37] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9031127792580804 ticks=1
+[09-28-2024] [21:56:31] khoi1309 failed Ground Spoof (Type C) [VL: 2] [Ping: 37] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9634505424243116 airTicks=1
+[09-28-2024] [21:56:31] khoi1309 failed VClip (Type A) [VL: 3] [Ping: 37] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9634505424243116 ticks=1
+[09-28-2024] [21:56:31] khoi1309 failed Ground Spoof (Type A) [VL: 2] [Ping: 37] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9634505424243116 ticks=1
+[09-28-2024] [21:56:31] khoi1309 failed VClip (Type A) [VL: 4] [Ping: 37] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.022581551478055 ticks=1
+[09-28-2024] [22:22:07] F4R1K0 failed Timer (Type D) [VL: 8] [Ping: 131] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] balance=99 delay=0
+[09-28-2024] [22:22:07] F4R1K0 failed Timer (Type D) [VL: 10] [Ping: 131] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] balance=99 delay=0
+[09-28-2024] [22:22:56] Caothanh2008 failed Ground Spoof (Type C) [VL: 1] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8439105457704983 airTicks=1
+[09-28-2024] [22:22:56] Caothanh2008 failed Ground Spoof (Type C) [VL: 2] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9657237242233663 airTicks=1
+[09-28-2024] [22:22:56] Caothanh2008 failed Ground Spoof (Type C) [VL: 3] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.082713105363375 airTicks=1
+[09-28-2024] [22:52:07] F4R1K0 failed Scaffold (Type D) [VL: 1] [Ping: 31] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] rotation=291 dp=1.593895
+[09-28-2024] [22:52:35] Mushokujup failed Jesus (Type A) [VL: 2] [Ping: 140] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] 
+[09-29-2024] [00:33:32] kakao12342001 failed Jump (Type A) [VL: 1] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.3999999761581421 ticks=1 difference=0.02000001072883606
+[09-29-2024] [08:18:14] khoi1309 failed Auto Clicker (Type J) [VL: 1] [Ping: 52] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] range=4
+[09-29-2024] [08:31:06] khoi1309 failed Ground Spoof (Type A) [VL: 1] [Ping: 121] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.7787179775404525 ticks=1
+[09-29-2024] [08:31:06] khoi1309 failed Ground Spoof (Type A) [VL: 2] [Ping: 121] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9634505424243116 ticks=1
+[09-29-2024] [08:31:06] khoi1309 failed Ground Spoof (Type A) [VL: 3] [Ping: 121] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.0805299414785736 ticks=1
+[09-29-2024] [08:31:07] khoi1309 failed Ground Spoof (Type A) [VL: 4] [Ping: 121] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.2889002133874214 ticks=1
+[09-29-2024] [08:31:07] khoi1309 failed Ground Spoof (Type A) [VL: 5] [Ping: 121] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.3415222352293767 ticks=1
+[09-29-2024] [08:31:07] khoi1309 failed Ground Spoof (Type A) [VL: 6] [Ping: 121] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.4776577021099229 ticks=1
+[09-29-2024] [08:31:07] khoi1309 failed Ground Spoof (Type A) [VL: 7] [Ping: 121] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.5743745168637702 ticks=1
+[09-29-2024] [08:31:07] khoi1309 failed Ground Spoof (Type A) [VL: 8] [Ping: 121] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.712316155708038 ticks=1
+[09-29-2024] [08:31:07] khoi1309 failed Ground Spoof (Type A) [VL: 9] [Ping: 121] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.7997405044718846 ticks=1
+[09-29-2024] [08:31:07] khoi1309 failed Ground Spoof (Type A) [VL: 10] [Ping: 121] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.92442883270175 ticks=1
+[09-29-2024] [08:31:07] khoi1309 failed Ground Spoof (Type A) [VL: 11] [Ping: 121] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.0034535273862843 ticks=1
+[09-29-2024] [08:31:08] khoi1309 failed Ground Spoof (Type A) [VL: 12] [Ping: 121] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.116161911359569 ticks=1
+[09-29-2024] [08:31:08] khoi1309 failed Ground Spoof (Type A) [VL: 13] [Ping: 121] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.1875939832969777 ticks=1
+[09-29-2024] [08:31:08] khoi1309 failed Ground Spoof (Type A) [VL: 14] [Ping: 121] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.2894734454584125 ticks=1
+[09-29-2024] [08:31:08] khoi1309 failed Ground Spoof (Type A) [VL: 15] [Ping: 121] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.354042387124622 ticks=1
+[09-29-2024] [08:31:18] khoi1309 failed Ground Spoof (Type A) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9656397559700594 ticks=1
+[09-29-2024] [08:31:18] khoi1309 failed Ground Spoof (Type A) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.1393798351802218 ticks=1
+[09-29-2024] [08:31:18] khoi1309 failed Ground Spoof (Type A) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.249492440818301 ticks=1
+[09-29-2024] [08:32:02] khoi1309 failed Ground Spoof (Type C) [VL: 1] [Ping: 490] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8415436343683957 airTicks=1
+[09-29-2024] [08:32:02] khoi1309 failed Ground Spoof (Type C) [VL: 2] [Ping: 490] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9634505424243045 airTicks=1
+[09-29-2024] [08:32:02] khoi1309 failed Ground Spoof (Type C) [VL: 3] [Ping: 490] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.08052994147857 airTicks=1
+[09-29-2024] [08:32:47] khoi1309 failed Ground Spoof (Type A) [VL: 4] [Ping: 238] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.5850090015087517 ticks=1
+[09-29-2024] [08:32:47] khoi1309 failed Ground Spoof (Type C) [VL: 4] [Ping: 238] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8439105457704983 airTicks=1
+[09-29-2024] [08:32:47] khoi1309 failed VClip (Type A) [VL: 1] [Ping: 238] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8439105457704983 ticks=1
+[09-29-2024] [08:32:47] khoi1309 failed VClip (Type A) [VL: 2] [Ping: 238] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.905432352477284 ticks=1
+[09-29-2024] [08:36:33] khoi1309 failed Ground Spoof (Type A) [VL: 5] [Ping: 1567] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.7811331932098824 ticks=1
+[09-29-2024] [08:36:33] khoi1309 failed Ground Spoof (Type C) [VL: 5] [Ping: 1567] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8439105457704983 airTicks=1
+[09-29-2024] [08:36:33] khoi1309 failed VClip (Type A) [VL: 3] [Ping: 1567] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8439105457704983 ticks=1
+[09-29-2024] [08:36:33] khoi1309 failed VClip (Type A) [VL: 4] [Ping: 1567] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9054323524772769 ticks=1
+[09-29-2024] [08:36:33] khoi1309 failed VClip (Type A) [VL: 5] [Ping: 1567] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9657237242233663 ticks=1
+[09-29-2024] [08:36:33] khoi1309 failed VClip (Type A) [VL: 6] [Ping: 1567] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.0248092696844964 ticks=1
+[09-29-2024] [08:39:11] khoi1309 failed Ground Spoof (Type C) [VL: 1] [Ping: 893] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8439105457704983 airTicks=1
+[09-29-2024] [08:39:21] khoi1309 failed VClip (Type A) [VL: 1] [Ping: 1505] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8415436343683993 ticks=1
+[09-29-2024] [08:44:57] khoi1309 failed Ground Spoof (Type A) [VL: 1] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.7787179775404525 ticks=1
+[09-29-2024] [08:44:57] khoi1309 failed Ground Spoof (Type C) [VL: 1] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8415436343684064 airTicks=1
+[09-29-2024] [08:44:57] khoi1309 failed VClip (Type A) [VL: 1] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8415436343684064 ticks=1
+[09-29-2024] [08:44:57] khoi1309 failed VClip (Type A) [VL: 2] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9031127792580662 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed Ground Spoof (Type C) [VL: 2] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9634505424243116 airTicks=1
+[09-29-2024] [08:44:58] khoi1309 failed VClip (Type A) [VL: 3] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9634505424243116 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed Ground Spoof (Type A) [VL: 2] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9634505424243116 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed VClip (Type A) [VL: 4] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.022581551478055 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed Ground Spoof (Type C) [VL: 3] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.0805299414785736 airTicks=1
+[09-29-2024] [08:44:58] khoi1309 failed VClip (Type A) [VL: 5] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.0805299414785736 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed Ground Spoof (Type A) [VL: 3] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.0805299414785736 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed VClip (Type A) [VL: 6] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.1373193647843607 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed Ground Spoof (Type C) [VL: 4] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.192973000707184 airTicks=1
+[09-29-2024] [08:44:58] khoi1309 failed VClip (Type A) [VL: 7] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.192973000707184 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed VClip (Type A) [VL: 8] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.247513564973076 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed Ground Spoof (Type A) [VL: 4] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.247513564973076 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed Ground Spoof (Type C) [VL: 5] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.3009633189939223 airTicks=1
+[09-29-2024] [08:44:58] khoi1309 failed VClip (Type A) [VL: 9] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.3009633189939223 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed VClip (Type A) [VL: 10] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.3533440789538247 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed Ground Spoof (Type A) [VL: 5] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.3533440789538247 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed Ground Spoof (Type C) [VL: 6] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.4046772247136232 airTicks=1
+[09-29-2024] [08:44:58] khoi1309 failed VClip (Type A) [VL: 11] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.4046772247136232 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed VClip (Type A) [VL: 12] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.454983708537327 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed Ground Spoof (Type C) [VL: 7] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.5042840636440644 airTicks=1
+[09-29-2024] [08:44:58] khoi1309 failed VClip (Type A) [VL: 13] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.5042840636440644 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed Ground Spoof (Type A) [VL: 6] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.5042840636440644 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed VClip (Type A) [VL: 14] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.5525984125890204 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed Ground Spoof (Type C) [VL: 8] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.599946475476571 airTicks=1
+[09-29-2024] [08:44:58] khoi1309 failed VClip (Type A) [VL: 15] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.599946475476571 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed Ground Spoof (Type A) [VL: 7] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.599946475476571 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed VClip (Type A) [VL: 16] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.6463475780094825 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed Ground Spoof (Type C) [VL: 9] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.6918206593767593 airTicks=1
+[09-29-2024] [08:44:58] khoi1309 failed VClip (Type A) [VL: 17] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.6918206593767593 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed VClip (Type A) [VL: 18] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.7363842799840086 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed Ground Spoof (Type A) [VL: 8] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.7363842799840086 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed Ground Spoof (Type C) [VL: 10] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.7800566290291044 airTicks=1
+[09-29-2024] [08:44:58] khoi1309 failed VClip (Type A) [VL: 19] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.7800566290291044 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed VClip (Type A) [VL: 20] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.822855531926308 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed Ground Spoof (Type A) [VL: 9] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.822855531926308 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed Ground Spoof (Type C) [VL: 11] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.8647984575818555 airTicks=1
+[09-29-2024] [08:44:58] khoi1309 failed VClip (Type A) [VL: 21] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.8647984575818555 ticks=1
+[09-29-2024] [08:44:58] khoi1309 failed VClip (Type A) [VL: 22] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.9059025255243114 ticks=1
+[09-29-2024] [08:44:59] khoi1309 failed Ground Spoof (Type C) [VL: 12] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.9461845128919038 airTicks=1
+[09-29-2024] [08:44:59] khoi1309 failed VClip (Type A) [VL: 23] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.9461845128919038 ticks=1
+[09-29-2024] [08:44:59] khoi1309 failed Ground Spoof (Type A) [VL: 10] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.9461845128919038 ticks=1
+[09-29-2024] [08:44:59] khoi1309 failed VClip (Type A) [VL: 24] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.9856608612804791 ticks=1
+[09-29-2024] [08:44:59] khoi1309 failed Ground Spoof (Type C) [VL: 13] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.0243476834542093 airTicks=1
+[09-29-2024] [08:44:59] khoi1309 failed VClip (Type A) [VL: 25] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.0243476834542093 ticks=1
+[09-29-2024] [08:44:59] khoi1309 failed Ground Spoof (Type A) [VL: 11] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.0243476834542093 ticks=1
+[09-29-2024] [08:44:59] khoi1309 failed VClip (Type A) [VL: 26] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.062260769922375 ticks=1
+[09-29-2024] [08:44:59] khoi1309 failed Ground Spoof (Type C) [VL: 14] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.099415595384329 airTicks=1
+[09-29-2024] [08:44:59] khoi1309 failed VClip (Type A) [VL: 27] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.099415595384329 ticks=1
+[09-29-2024] [08:44:59] khoi1309 failed Improbable (Type E) [VL: 1] [Ping: 55] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] totalViolations=52
+[09-29-2024] [08:45:09] khoi1309 failed Ground Spoof (Type C) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.241994499816414 airTicks=1
+[09-29-2024] [08:45:09] khoi1309 failed Ground Spoof (Type C) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.308443605955091 airTicks=1
+[09-29-2024] [08:45:09] khoi1309 failed Ground Spoof (Type C) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.3722613299748048 airTicks=1
+[09-29-2024] [08:45:09] khoi1309 failed Ground Spoof (Type C) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.4335518745090923 airTicks=1
+[09-29-2024] [10:28:46] Caothanh2008 failed Ground Spoof (Type C) [VL: 1] [Ping: 19] [TPS: 20] [Version: 1.19.4] [Client: Fabric] deltaY=-0.8439105457704983 airTicks=1
+[09-29-2024] [10:35:12] Mushokujup failed Speed (Type B) [VL: 2] [Ping: 36] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=46.38975326300236 max=0.7205 diff=45.66925326300236 ticks=0 deltaY=72.9693539226055
+[09-29-2024] [10:35:12] Mushokujup failed Speed (Type C) [VL: 2] [Ping: 36] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=46.38975326300236 max=0.45999999999999996 diff=45.92975326300236 ticks=164 deltaY=72.9693539226055
+[09-29-2024] [10:35:12] Mushokujup failed Speed (Type D) [VL: 2] [Ping: 36] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=46.38975326300236 max=0.7205 diff=45.66925326300236 ticks=0 deltaY=72.9693539226055 tp=2257
+[09-29-2024] [11:14:45] Mushokujup failed Jesus (Type A) [VL: 2] [Ping: 28] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] 
+[09-29-2024] [12:40:25] Caothanh2008 failed Ground Spoof (Type A) [VL: 1] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.404104854449443 ticks=1
+[09-29-2024] [12:40:25] Caothanh2008 failed Ground Spoof (Type A) [VL: 2] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.4932517571983936 ticks=1
+[09-29-2024] [12:40:25] Caothanh2008 failed Ground Spoof (Type A) [VL: 3] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.5497510853377463 ticks=1
+[09-29-2024] [12:43:52] Caothanh2008 failed Ground Spoof (Type C) [VL: 1] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8415436343683922 airTicks=1
+[09-29-2024] [12:43:52] Caothanh2008 failed Ground Spoof (Type C) [VL: 2] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9634505424243116 airTicks=1
+[09-29-2024] [12:45:39] Caothanh2008 failed Ground Spoof (Type A) [VL: 4] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.025805181634695 ticks=1
+[09-29-2024] [12:45:42] Caothanh2008 failed Ground Spoof (Type A) [VL: 5] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.7170746714355971 ticks=1
+[09-29-2024] [12:45:42] Caothanh2008 failed Ground Spoof (Type A) [VL: 6] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8439105457704983 ticks=1
+[09-29-2024] [12:45:42] Caothanh2008 failed Ground Spoof (Type A) [VL: 7] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.0248092696844964 ticks=1
+[09-29-2024] [12:45:42] Caothanh2008 failed Timer (Type D) [VL: 8] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] balance=89 delay=0
+[09-29-2024] [12:49:34] Caothanh2008 failed Invalid (Type E) [VL: 1] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=28.48526007192109
+[09-29-2024] [12:49:53] Caothanh2008 failed Ground Spoof (Type A) [VL: 1] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.7557312899540989 ticks=1
+[09-29-2024] [12:49:53] Caothanh2008 failed Ground Spoof (Type A) [VL: 2] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8984994670097848 ticks=1
+[09-29-2024] [12:49:53] Caothanh2008 failed Ground Spoof (Type A) [VL: 3] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.018150926222333 ticks=1
+[09-29-2024] [12:49:54] Caothanh2008 failed Ground Spoof (Type A) [VL: 4] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.1888029314180244 ticks=1
+[09-29-2024] [12:57:04] Caothanh2008 failed Elytra (Type G) [VL: 1] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.04688024694771531 deltaXZ=0.8170140939630225 deltaY=-0.07264594759629972
+[09-29-2024] [12:57:04] Caothanh2008 failed Elytra (Type C) [VL: 1] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.04439525951459178 deltaXZ=0.952709638153209 deltaY=-0.06466210166489361
+[09-29-2024] [12:57:04] Caothanh2008 failed Elytra (Type G) [VL: 2] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.04439525951459178 deltaXZ=0.952709638153209 deltaY=-0.06466210166489361
+[09-29-2024] [12:57:04] Caothanh2008 failed Elytra (Type C) [VL: 2] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.04173141313720263 deltaXZ=1.080587934587048 deltaY=-0.054391092698423904
+[09-29-2024] [12:57:04] Caothanh2008 failed Elytra (Type G) [VL: 3] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.04173141313720263 deltaXZ=1.080587934587048 deltaY=-0.054391092698423904
+[09-29-2024] [12:57:05] Caothanh2008 failed Elytra (Type C) [VL: 3] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.039231381281439104 deltaXZ=1.2008778231892294 deltaY=-0.043828993910850045
+[09-29-2024] [12:57:05] Caothanh2008 failed Elytra (Type G) [VL: 4] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.039231381281439104 deltaXZ=1.2008778231892294 deltaY=-0.043828993910850045
+[09-29-2024] [12:57:05] Caothanh2008 failed Elytra (Type C) [VL: 4] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.03671405560364693 deltaXZ=1.3135135686956179 deltaY=-0.03264890783316332
+[09-29-2024] [12:57:05] Caothanh2008 failed Elytra (Type G) [VL: 5] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.03671405560364693 deltaXZ=1.3135135686956179 deltaY=-0.03264890783316332
+[09-29-2024] [12:57:05] Caothanh2008 failed Elytra (Type G) [VL: 6] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.03417961447631912 deltaXZ=1.4186672571238834 deltaY=-0.021117425953093516
+[09-29-2024] [12:57:05] Caothanh2008 failed Elytra (Type G) [VL: 7] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.03144325813136395 deltaXZ=1.5155675873925865 deltaY=-0.007515093269077511
+[09-29-2024] [12:57:40] Caothanh2008 failed Elytra (Type A) [VL: 1] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=4.284166641742122
+[09-29-2024] [12:57:40] Caothanh2008 failed Elytra (Type A) [VL: 2] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=4.2996268098838595
+[09-29-2024] [12:57:40] Caothanh2008 failed Elytra (Type A) [VL: 3] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=4.31317846209234
+[09-29-2024] [12:57:40] Caothanh2008 failed Elytra (Type A) [VL: 4] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=4.324887787522632
+[09-29-2024] [12:57:40] Caothanh2008 failed Elytra (Type A) [VL: 5] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=4.334976330046951
+[09-29-2024] [12:57:40] Caothanh2008 failed Elytra (Type A) [VL: 6] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=4.343729622796949
+[09-29-2024] [12:57:40] Caothanh2008 failed Elytra (Type A) [VL: 7] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=4.35097749319979
+[09-29-2024] [12:57:40] Caothanh2008 failed Elytra (Type A) [VL: 8] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=4.356392644455401
+[09-29-2024] [12:57:40] Caothanh2008 failed Elytra (Type A) [VL: 9] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=4.360079345818807
+[09-29-2024] [12:57:40] Caothanh2008 failed Elytra (Type A) [VL: 10] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=4.36150642380068
+[09-29-2024] [12:57:41] Caothanh2008 failed Elytra (Type A) [VL: 11] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=4.360876782421231
+[09-29-2024] [12:57:41] Caothanh2008 failed Elytra (Type A) [VL: 12] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=4.358498018715896
+[09-29-2024] [12:57:41] Caothanh2008 failed Elytra (Type A) [VL: 13] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=4.3546573957964725
+[09-29-2024] [12:57:41] Caothanh2008 failed Elytra (Type A) [VL: 14] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=4.350863833624425
+[09-29-2024] [12:57:41] Caothanh2008 failed Elytra (Type A) [VL: 15] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=4.346786560650563
+[09-29-2024] [12:58:12] Caothanh2008 failed Elytra (Type A) [VL: 1] [Ping: 7] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=4.277180457765764
+[09-29-2024] [12:58:12] Caothanh2008 failed Elytra (Type A) [VL: 2] [Ping: 7] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=4.30351745554856
+[09-29-2024] [13:06:14] Caothanh2008 failed Ground Spoof (Type C) [VL: 1] [Ping: 25] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8439105457704983 airTicks=1
+[09-29-2024] [13:08:45] Caothanh2008 failed Elytra (Type C) [VL: 1] [Ping: 31] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.05220621058328623 deltaXZ=0.866563130181528 deltaY=-0.17998111872026357
+[09-29-2024] [13:08:45] Caothanh2008 failed Elytra (Type C) [VL: 2] [Ping: 31] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.05526443725845609 deltaXZ=1.0299207981484138 deltaY=-0.22308088470121845
+[09-29-2024] [13:08:45] Caothanh2008 failed Elytra (Type G) [VL: 1] [Ping: 31] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.05184054486862699 deltaXZ=1.2712148341843788 deltaY=-0.23982252163082762
+[09-29-2024] [13:09:13] Caothanh2008 failed Elytra (Type C) [VL: 3] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.044610303030793275 deltaXZ=0.5239525683192031 deltaY=0.31107512137439386
+[09-29-2024] [13:09:13] Caothanh2008 failed Elytra (Type C) [VL: 4] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.04332994505293153 deltaXZ=0.655215325237156 deltaY=0.4323072700745527
+[09-29-2024] [13:09:13] Caothanh2008 failed Elytra (Type K) [VL: 1] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.655215325237156 accel=true ticks=10
+[09-29-2024] [13:09:13] Caothanh2008 failed Elytra (Type G) [VL: 2] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.04248360668864559 deltaXZ=0.7406098345533653 deltaY=0.35407434993613407
+[09-29-2024] [13:09:13] Caothanh2008 failed Elytra (Type C) [VL: 5] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.042046909609412486 deltaXZ=0.7826567441627778 deltaY=0.31587323203019224
+[09-29-2024] [13:09:13] Caothanh2008 failed Elytra (Type K) [VL: 2] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.7826567441627778 accel=true ticks=13
+[09-29-2024] [13:09:13] Caothanh2008 failed Elytra (Type G) [VL: 3] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.041175548509684634 deltaXZ=0.8654502476983239 deltaY=0.2395133606115749
+[09-29-2024] [13:09:13] Caothanh2008 failed Elytra (Type C) [VL: 6] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.0407806589756029 deltaXZ=0.9062309066739268 deltaY=0.2014411354470198
+[09-29-2024] [13:09:13] Caothanh2008 failed Elytra (Type K) [VL: 3] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.9062309066739268 accel=true ticks=16
+[09-29-2024] [13:09:13] Caothanh2008 failed Elytra (Type G) [VL: 4] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.039994528419563635 deltaXZ=0.9866106609150543 deltaY=0.12587187093250662
+[09-29-2024] [13:09:13] Caothanh2008 failed Elytra (Type C) [VL: 7] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.03960745697060719 deltaXZ=1.0262181178856615 deltaY=0.08818269568632786
+[09-29-2024] [13:09:13] Caothanh2008 failed Elytra (Type K) [VL: 4] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=1.0262181178856615 accel=true ticks=19
+[09-29-2024] [13:09:13] Caothanh2008 failed Elytra (Type G) [VL: 5] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.03884074272863969 deltaXZ=1.1042791155658167 deltaY=0.013170679407771502
+[09-29-2024] [13:09:13] Caothanh2008 failed Elytra (Type C) [VL: 8] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.039999115460352286 deltaXZ=1.144278231026169 deltaY=-0.02247325260221089
+[09-29-2024] [13:09:13] Caothanh2008 failed Elytra (Type G) [VL: 6] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.04341118683212497 deltaXZ=1.2295042496794453 deltaY=-0.08520928845162956
+[09-29-2024] [13:09:13] Caothanh2008 failed Elytra (Type C) [VL: 9] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.039866109299577124 deltaXZ=1.2693703589790224 deltaY=-0.03963365692134602
+[09-29-2024] [13:09:14] Caothanh2008 failed Elytra (Type G) [VL: 7] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.03641460767562754 deltaXZ=1.342559995808571 deltaY=0.04293348969228106
+[09-29-2024] [13:09:14] Caothanh2008 failed Elytra (Type K) [VL: 5] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=1.342559995808571 accel=true ticks=27
+[09-29-2024] [13:09:14] Caothanh2008 failed Elytra (Type C) [VL: 10] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.03605604623273262 deltaXZ=1.3786160420413036 deltaY=0.08298272703093801
+[09-29-2024] [13:09:14] Caothanh2008 failed Elytra (Type G) [VL: 8] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.035346011238029273 deltaXZ=1.4496618022101542 deltaY=0.16069426942394216
+[09-29-2024] [13:09:14] Caothanh2008 failed Elytra (Type K) [VL: 6] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=1.4496618022101542 accel=true ticks=30
+[09-29-2024] [13:09:14] Caothanh2008 failed Elytra (Type G) [VL: 9] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.034300360005282915 deltaXZ=1.5536042215114967 deltaY=0.04100241077966871
+[09-29-2024] [13:09:14] Caothanh2008 failed Elytra (Type K) [VL: 7] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=1.5536042215114967 accel=true ticks=33
+[09-29-2024] [13:09:14] Caothanh2008 failed Elytra (Type C) [VL: 11] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.03779794227591271 deltaXZ=1.6613478123575127 deltaY=-0.06627374490653182
+[09-29-2024] [13:09:14] Caothanh2008 failed Elytra (Type G) [VL: 10] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.03779794227591271 deltaXZ=1.6613478123575127 deltaY=-0.06627374490653182
+[09-29-2024] [13:09:27] Caothanh2008 failed Elytra (Type C) [VL: 12] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.047871759460907604 deltaXZ=0.6219542137166554 deltaY=-0.04838326814882521
+[09-29-2024] [13:09:27] Caothanh2008 failed Elytra (Type C) [VL: 13] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.049555280524603784 deltaXZ=0.7694700832260511 deltaY=-0.08384170705577532
+[09-29-2024] [13:09:27] Caothanh2008 failed Elytra (Type G) [VL: 11] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.05006101965121357 deltaXZ=0.8195311028772647 deltaY=-0.09245287734206187
+[09-29-2024] [13:09:27] Caothanh2008 failed Improbable (Type B) [VL: 1] [Ping: 27] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] movementViolations=31
+[09-29-2024] [13:09:55] Caothanh2008 failed Jump (Type A) [VL: 1] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.24813599859094637 ticks=4 difference=0.08336271676488138
+[09-29-2024] [13:09:55] Caothanh2008 failed Jump (Type A) [VL: 2] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.41999998688697815 ticks=6 difference=0.4983999884128565
+[09-29-2024] [13:09:55] Caothanh2008 failed Speed (Type C) [VL: 2] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=0.8658897928549035 max=0.36 diff=0.5058897928549035 ticks=6 deltaY=0.41999998688697815
+[09-29-2024] [13:09:55] Caothanh2008 failed Jump (Type A) [VL: 3] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.41999998688697815 ticks=7 difference=0.5752319914035766
+[09-29-2024] [13:09:55] Caothanh2008 failed Jump (Type A) [VL: 4] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.41999998688697815 ticks=8 difference=0.6505273557999445
+[09-29-2024] [13:09:55] Caothanh2008 failed Motion (Type A) [VL: 1] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.41999998688697815
+[09-29-2024] [13:09:55] Caothanh2008 failed Speed (Type C) [VL: 4] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=1.147435286929034 max=0.36 diff=0.7874352869290341 ticks=8 deltaY=0.41999998688697815
+[09-29-2024] [13:09:55] Caothanh2008 failed Strafe (Type A) [VL: 2] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] difference=0.14744616297805202 deltaXZ=1.147435286929034
+[09-29-2024] [13:09:55] Caothanh2008 failed Speed (Type B) [VL: 2] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=1.2685506250105183 max=0.6505000000000001 diff=0.6180506250105182 ticks=0 deltaY=0.41999998688697815
+[09-29-2024] [13:09:55] Caothanh2008 failed Speed (Type D) [VL: 2] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=1.2685506250105183 max=0.6505000000000001 diff=0.6180506250105182 ticks=0 deltaY=0.41999998688697815 tp=426
+[09-29-2024] [13:09:55] Caothanh2008 failed Speed (Type B) [VL: 3] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=1.3791436356156852 max=0.6505000000000001 diff=0.7286436356156851 ticks=0 deltaY=0.41999998688697815
+[09-29-2024] [13:09:55] Caothanh2008 failed Speed (Type C) [VL: 6] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=1.3791436356156852 max=0.36 diff=1.019143635615685 ticks=10 deltaY=0.41999998688697815
+[09-29-2024] [13:09:55] Caothanh2008 failed Speed (Type D) [VL: 3] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=1.3791436356156852 max=0.6505000000000001 diff=0.7286436356156851 ticks=0 deltaY=0.41999998688697815 tp=427
+[09-29-2024] [13:09:55] Caothanh2008 failed Strafe (Type A) [VL: 4] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] difference=0.14744616371074226 deltaXZ=1.3791436356156852
+[09-29-2024] [13:09:55] Caothanh2008 failed Speed (Type B) [VL: 4] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=1.2804342494401617 max=0.6205 diff=0.6599342494401617 ticks=0 deltaY=0.33319999363422426
+[09-29-2024] [13:09:55] Caothanh2008 failed Speed (Type D) [VL: 4] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=1.2804342494401617 max=0.6205 diff=0.6599342494401617 ticks=0 deltaY=0.33319999363422426 tp=428
+[09-29-2024] [13:09:55] Caothanh2008 failed Speed (Type B) [VL: 5] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=1.1906114198954783 max=0.6205 diff=0.5701114198954782 ticks=0 deltaY=0.24813599859094637
+[09-29-2024] [13:09:55] Caothanh2008 failed Speed (Type C) [VL: 8] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=1.1906114198954783 max=0.36 diff=0.8306114198954783 ticks=12 deltaY=0.24813599859094637
+[09-29-2024] [13:09:55] Caothanh2008 failed Speed (Type D) [VL: 5] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=1.1906114198954783 max=0.6205 diff=0.5701114198954782 ticks=0 deltaY=0.24813599859094637 tp=429
+[09-29-2024] [13:09:55] Caothanh2008 failed Speed (Type C) [VL: 10] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=1.0344826096867363 max=0.36 diff=0.6744826096867363 ticks=14 deltaY=0.08307781780646906
+[09-29-2024] [13:09:55] Caothanh2008 failed Improbable (Type B) [VL: 1] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] movementViolations=31
+[09-29-2024] [13:10:39] Caothanh2008 failed Elytra (Type K) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.510162478929041 accel=true ticks=10
+[09-29-2024] [13:10:39] Caothanh2008 failed Elytra (Type K) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.6199898720406422 accel=true ticks=13
+[09-29-2024] [13:10:48] Caothanh2008 failed Elytra (Type K) [VL: 3] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.73316551110184 accel=true ticks=16
+[09-29-2024] [13:10:48] Caothanh2008 failed Elytra (Type K) [VL: 4] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.8087840689131758 accel=true ticks=19
+[09-29-2024] [13:10:51] Caothanh2008 failed Elytra (Type K) [VL: 5] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.5677631622478698 accel=true ticks=9
+[09-29-2024] [13:10:51] Caothanh2008 failed Elytra (Type K) [VL: 6] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.6897324417621529 accel=true ticks=12
+[09-29-2024] [13:10:51] Caothanh2008 failed Elytra (Type G) [VL: 1] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.03956552462020446 deltaXZ=0.8082842739411984 deltaY=0.5395699315048432
+[09-29-2024] [13:10:51] Caothanh2008 failed Elytra (Type K) [VL: 7] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.8082842739411984 accel=true ticks=15
+[09-29-2024] [13:10:52] Caothanh2008 failed Elytra (Type C) [VL: 1] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.03975543446422802 deltaXZ=0.8480397084054264 deltaY=0.5088813189260435
+[09-29-2024] [13:10:52] Caothanh2008 failed Elytra (Type G) [VL: 2] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.04002585861673502 deltaXZ=0.9280648080047732 deltaY=0.4481138544775263
+[09-29-2024] [13:10:52] Caothanh2008 failed Elytra (Type K) [VL: 8] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.9280648080047732 accel=true ticks=18
+[09-29-2024] [13:10:52] Caothanh2008 failed Elytra (Type C) [VL: 2] [Ping: 6] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.039873173907806314 deltaXZ=0.9679379819125795 deltaY=0.41765574612831813
+[09-29-2024] [13:14:51] Caothanh2008 failed Elytra (Type K) [VL: 9] [Ping: 22] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.5729501387093071 accel=true ticks=8
+[09-29-2024] [13:14:51] Caothanh2008 failed Elytra (Type K) [VL: 10] [Ping: 22] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.7029064231463914 accel=true ticks=11
+[09-29-2024] [13:14:51] Caothanh2008 failed Elytra (Type G) [VL: 3] [Ping: 22] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.04236968826674381 deltaXZ=0.7452761114131352 deltaY=0.4512099540210244
+[09-29-2024] [13:14:51] Caothanh2008 failed Elytra (Type C) [VL: 3] [Ping: 22] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.04195473936671479 deltaXZ=0.78723085077985 deltaY=0.42011506927154585
+[09-29-2024] [13:14:51] Caothanh2008 failed Elytra (Type K) [VL: 11] [Ping: 22] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=0.8285927573149721 accel=true ticks=14
+[09-29-2024] [13:14:51] Caothanh2008 failed Elytra (Type G) [VL: 4] [Ping: 22] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.03956344922036581 deltaXZ=0.8681562065353379 deltaY=0.3570669293094113
+[09-29-2024] [13:18:16] Caothanh2008 failed Ground Spoof (Type C) [VL: 1] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.7800067035997742 airTicks=1
+[09-29-2024] [13:18:16] Caothanh2008 failed Ground Spoof (Type C) [VL: 2] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.8647505091976555 airTicks=1
+[09-29-2024] [13:28:13] Caothanh2008 failed Ground Spoof (Type A) [VL: 1] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.7787179775404667 ticks=1
+[09-29-2024] [13:28:13] Caothanh2008 failed Ground Spoof (Type C) [VL: 1] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8415436343683922 airTicks=1
+[09-29-2024] [13:28:13] Caothanh2008 failed VClip (Type A) [VL: 1] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8415436343683922 ticks=1
+[09-29-2024] [13:28:13] Caothanh2008 failed VClip (Type A) [VL: 2] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9031127792580804 ticks=1
+[09-29-2024] [13:28:13] Caothanh2008 failed VClip (Type A) [VL: 3] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9634505424243116 ticks=1
+[09-29-2024] [13:33:58] Caothanh2008 failed Jump (Type A) [VL: 1] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.17947528210835628 ticks=4 difference=0.014702000282291294
+[09-29-2024] [13:34:01] Caothanh2008 failed Jump (Type A) [VL: 2] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.3381999936342197 ticks=2 difference=0.0049999999999954525
+[09-29-2024] [13:34:01] Caothanh2008 failed Jump (Type A) [VL: 3] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.17947528210835628 ticks=4 difference=0.014702000282291294
+[09-29-2024] [13:34:01] Caothanh2008 failed Jump (Type A) [VL: 4] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.3381999936342197 ticks=2 difference=0.0049999999999954525
+[09-29-2024] [13:34:02] Caothanh2008 failed Jump (Type A) [VL: 5] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.17947528210835628 ticks=4 difference=0.014702000282291294
+[09-29-2024] [13:34:02] Caothanh2008 failed Jump (Type A) [VL: 6] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.3381999936342197 ticks=2 difference=0.0049999999999954525
+[09-29-2024] [13:34:02] Caothanh2008 failed Jump (Type A) [VL: 7] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.17947528210835628 ticks=4 difference=0.014702000282291294
+[09-29-2024] [13:34:14] Caothanh2008 failed Jump (Type A) [VL: 8] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.17947528210835628 ticks=4 difference=0.014702000282291294
+[09-29-2024] [13:34:15] Caothanh2008 failed Jump (Type A) [VL: 9] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.3381999936342197 ticks=2 difference=0.0049999999999954525
+[09-29-2024] [13:34:15] Caothanh2008 failed Jump (Type A) [VL: 10] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.17947528210835628 ticks=4 difference=0.014702000282291294
+[09-29-2024] [13:34:16] Caothanh2008 failed Jump (Type A) [VL: 11] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.3381999936342197 ticks=2 difference=0.0049999999999954525
+[09-29-2024] [13:34:16] Caothanh2008 failed Jump (Type A) [VL: 12] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.17947528210835628 ticks=4 difference=0.014702000282291294
+[09-29-2024] [13:34:16] Caothanh2008 failed Jump (Type A) [VL: 13] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.3381999936342197 ticks=2 difference=0.0049999999999954525
+[09-29-2024] [13:34:17] Caothanh2008 failed Jump (Type A) [VL: 1] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.2580359986863101 ticks=3 difference=0.009900000095363737
+[09-29-2024] [13:34:17] Caothanh2008 failed Jump (Type A) [VL: 2] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.10248577836352979 ticks=5 difference=0.019407960557060733
+[09-29-2024] [13:34:17] Caothanh2008 failed Jump (Type A) [VL: 3] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.2580359986863101 ticks=3 difference=0.009900000095363737
+[09-29-2024] [13:34:18] Caothanh2008 failed Jump (Type A) [VL: 4] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.10248577836352979 ticks=5 difference=0.019407960557060733
+[09-29-2024] [13:34:18] Caothanh2008 failed Jump (Type A) [VL: 5] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.2580359986863101 ticks=3 difference=0.009900000095363737
+[09-29-2024] [13:34:18] Caothanh2008 failed Jump (Type A) [VL: 6] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.10248577836352979 ticks=5 difference=0.019407960557060733
+[09-29-2024] [13:34:18] Caothanh2008 failed Jump (Type A) [VL: 7] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.2580359986863101 ticks=3 difference=0.009900000095363737
+[09-29-2024] [13:34:18] Caothanh2008 failed Jump (Type A) [VL: 8] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.10248577836352979 ticks=5 difference=0.019407960557060733
+[09-29-2024] [13:34:19] Caothanh2008 failed Jump (Type A) [VL: 9] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.2580359986863101 ticks=3 difference=0.009900000095363737
+[09-29-2024] [13:34:19] Caothanh2008 failed Jump (Type A) [VL: 10] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.10248577836352979 ticks=5 difference=0.019407960557060733
+[09-29-2024] [13:34:20] Caothanh2008 failed Jump (Type A) [VL: 11] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.2580359986863101 ticks=3 difference=0.009900000095363737
+[09-29-2024] [13:34:20] Caothanh2008 failed Jump (Type A) [VL: 12] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.10248577836352979 ticks=5 difference=0.019407960557060733
+[09-29-2024] [13:34:21] Caothanh2008 failed Jump (Type A) [VL: 13] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.2580359986863101 ticks=3 difference=0.009900000095363737
+[09-29-2024] [13:34:21] Caothanh2008 failed Jump (Type A) [VL: 14] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.10248577836352979 ticks=5 difference=0.019407960557060733
+[09-29-2024] [13:34:26] Caothanh2008 failed Jump (Type A) [VL: 15] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.17947528210835628 ticks=4 difference=0.014702000282291294
+[09-29-2024] [13:34:44] Caothanh2008 failed Jump (Type A) [VL: 16] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.17947528210835628 ticks=4 difference=0.014702000282291294
+[09-29-2024] [13:35:13] Caothanh2008 failed VClip (Type A) [VL: 1] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8476879433666227 ticks=1
+[09-29-2024] [13:35:13] Caothanh2008 failed VClip (Type A) [VL: 2] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9041342021935392 ticks=1
+[09-29-2024] [13:35:14] Caothanh2008 failed Jump (Type A) [VL: 17] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.17947528210835628 ticks=4 difference=0.014702000282291294
+[09-29-2024] [13:35:14] Caothanh2008 failed Jump (Type A) [VL: 18] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.3381999936342268 ticks=2 difference=0.005000000000002558
+[09-29-2024] [13:35:14] Caothanh2008 failed Jump (Type A) [VL: 19] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.17947528210835628 ticks=4 difference=0.014702000282291294
+[09-29-2024] [13:35:15] Caothanh2008 failed Jump (Type A) [VL: 20] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.3381999936342268 ticks=2 difference=0.005000000000002558
+[09-29-2024] [13:35:15] Caothanh2008 failed Jump (Type A) [VL: 21] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.17947528210835628 ticks=4 difference=0.014702000282291294
+[09-29-2024] [13:35:15] Caothanh2008 failed Jump (Type A) [VL: 22] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.3381999936342268 ticks=2 difference=0.005000000000002558
+[09-29-2024] [13:35:15] Caothanh2008 failed Jump (Type A) [VL: 23] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.17947528210835628 ticks=4 difference=0.014702000282291294
+[09-29-2024] [13:35:16] Caothanh2008 failed Jump (Type A) [VL: 24] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.3381999936342268 ticks=2 difference=0.005000000000002558
+[09-29-2024] [13:35:16] Caothanh2008 failed Jump (Type A) [VL: 25] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.17947528210835628 ticks=4 difference=0.014702000282291294
+[09-29-2024] [13:35:25] Caothanh2008 failed Jump (Type A) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.17947528210835628 ticks=4 difference=0.014702000282291294
+[09-29-2024] [20:23:16] F4R1K0 failed Elytra (Type C) [VL: 1] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.03864267149834921 deltaXZ=0.3606126617851969 deltaY=-0.4159008413431735
+[09-29-2024] [20:56:03] Mushokujup failed Jump (Type B) [VL: 1] [Ping: 26] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=1.6715999627113405 limit=0.41999998688697815 tp=4704
+[09-29-2024] [20:56:45] Mushokujup failed Speed (Type B) [VL: 2] [Ping: 26] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=18.781902851348804 max=0.7605000000000001 diff=18.021402851348803 ticks=0 deltaY=2.749999964237219
+[09-29-2024] [20:56:45] Mushokujup failed Speed (Type C) [VL: 2] [Ping: 26] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=18.781902851348804 max=0.45999999999999996 diff=18.321902851348803 ticks=544 deltaY=2.749999964237219
+[09-29-2024] [20:56:45] Mushokujup failed Speed (Type D) [VL: 2] [Ping: 26] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=18.781902851348804 max=1.3855 diff=17.396402851348803 ticks=0 deltaY=2.749999964237219 tp=5535
+[09-29-2024] [21:09:15] khoi1309 failed Ground Spoof (Type C) [VL: 1] [Ping: 33] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8415436343683922 airTicks=1
+[09-29-2024] [21:10:18] khoi1309 failed Ground Spoof (Type C) [VL: 2] [Ping: 36] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.5956327336298699 airTicks=0
+[09-29-2024] [21:10:45] khoi1309 failed Ground Spoof (Type A) [VL: 1] [Ping: 36] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.7787179775404667 ticks=1
+[09-29-2024] [21:10:45] khoi1309 failed Ground Spoof (Type C) [VL: 1] [Ping: 36] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8415436343683922 airTicks=1
+[09-29-2024] [21:10:45] khoi1309 failed Ground Spoof (Type C) [VL: 2] [Ping: 36] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.7290694119474779 airTicks=0
+[09-29-2024] [21:11:23] khoi1309 failed Ground Spoof (Type C) [VL: 3] [Ping: 36] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8415436343683922 airTicks=1
+[09-29-2024] [21:11:23] khoi1309 failed Ground Spoof (Type C) [VL: 4] [Ping: 36] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9634505424243116 airTicks=1
+[09-29-2024] [21:11:41] khoi1309 failed Ground Spoof (Type A) [VL: 2] [Ping: 37] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.7811331932098824 ticks=1
+[09-29-2024] [21:14:40] F4R1K0 failed Jump (Type B) [VL: 1] [Ping: 151] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=2.757870217337967 limit=0.41999998688697815 tp=5791
+[09-29-2024] [21:14:40] F4R1K0 failed Speed (Type B) [VL: 2] [Ping: 151] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=2.0538126785823216 max=0.7965 diff=1.2573126785823217 ticks=0 deltaY=2.757870217337967
+[09-29-2024] [21:14:40] F4R1K0 failed Speed (Type C) [VL: 2] [Ping: 151] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=2.0538126785823216 max=0.5599999999999999 diff=1.4938126785823216 ticks=60 deltaY=2.757870217337967
+[09-29-2024] [21:14:40] F4R1K0 failed Speed (Type D) [VL: 2] [Ping: 151] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=2.0538126785823216 max=0.8965 diff=1.1573126785823216 ticks=0 deltaY=2.757870217337967 tp=5791
+[09-29-2024] [21:14:42] F4R1K0 failed Jump (Type B) [VL: 2] [Ping: 151] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=1.6715999627113334 limit=0.41999998688697815 tp=42
+[09-29-2024] [21:15:20] khoi1309 failed Jump (Type B) [VL: 1] [Ping: 41] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=1.6715999627113334 limit=0.41999998688697815 tp=7233
+[09-29-2024] [21:16:06] khoi1309 failed Ground Spoof (Type C) [VL: 5] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8415436343683922 airTicks=1
+[09-29-2024] [21:16:06] khoi1309 failed Ground Spoof (Type C) [VL: 6] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9634505424243116 airTicks=1
+[09-29-2024] [21:16:06] khoi1309 failed Ground Spoof (Type A) [VL: 3] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9634505424243116 ticks=1
+[09-29-2024] [21:18:54] khoi1309 failed Ground Spoof (Type A) [VL: 1] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.7811331932098824 ticks=1
+[09-29-2024] [21:18:54] khoi1309 failed Ground Spoof (Type A) [VL: 2] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9657237242233663 ticks=1
+[09-29-2024] [21:18:54] khoi1309 failed Ground Spoof (Type A) [VL: 3] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.0827131053633678 ticks=1
+[09-29-2024] [21:28:27] khoi1309 failed Timer (Type D) [VL: 8] [Ping: 36] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] balance=99 delay=0
+[09-29-2024] [21:28:27] khoi1309 failed Elytra (Type G) [VL: 1] [Ping: 36] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] accel=0.06341392521193723 deltaXZ=1.6183731146884737 deltaY=-0.17787847393843492
+[09-29-2024] [21:28:27] khoi1309 failed Timer (Type D) [VL: 10] [Ping: 36] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] balance=99 delay=0
+[09-29-2024] [22:28:00] Mushokujup failed Jesus (Type A) [VL: 2] [Ping: 25] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] 
+[09-29-2024] [22:28:00] Mushokujup failed Jesus (Type B) [VL: 2] [Ping: 25] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.0 deltaXZ=0.20528157632168997
+[09-29-2024] [23:28:27] kemhehe failed Jump (Type B) [VL: 1] [Ping: 22] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=3.5503031222378496 limit=0.41999998688697815 tp=1121
+[09-30-2024] [15:58:21] khoi1309 failed Ground Spoof (Type C) [VL: 1] [Ping: 36] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8415436343683922 airTicks=1
+[09-30-2024] [15:58:21] khoi1309 failed Ground Spoof (Type C) [VL: 2] [Ping: 36] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.6925199543717895 airTicks=0
+[09-30-2024] [16:11:20] khoi1309 failed VClip (Type A) [VL: 1] [Ping: 37] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8439105457704983 ticks=1
+[09-30-2024] [16:17:36] khoi1309 failed Ground Spoof (Type A) [VL: 1] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.7787179775404667 ticks=1
+[09-30-2024] [16:17:36] khoi1309 failed Ground Spoof (Type C) [VL: 1] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8415436343683922 airTicks=1
+[09-30-2024] [16:17:36] khoi1309 failed VClip (Type A) [VL: 1] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8415436343683922 ticks=1
+[09-30-2024] [16:17:36] khoi1309 failed VClip (Type A) [VL: 2] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9031127792580804 ticks=1
+[09-30-2024] [16:17:36] khoi1309 failed Ground Spoof (Type C) [VL: 2] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9634505424243116 airTicks=1
+[09-30-2024] [16:17:36] khoi1309 failed VClip (Type A) [VL: 3] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9634505424243116 ticks=1
+[09-30-2024] [16:17:36] khoi1309 failed Ground Spoof (Type A) [VL: 2] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9634505424243116 ticks=1
+[09-30-2024] [16:17:36] khoi1309 failed VClip (Type A) [VL: 4] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.022581551478055 ticks=1
+[09-30-2024] [16:17:36] khoi1309 failed Ground Spoof (Type C) [VL: 3] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.0805299414785736 airTicks=1
+[09-30-2024] [16:17:36] khoi1309 failed VClip (Type A) [VL: 5] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.0805299414785736 ticks=1
+[09-30-2024] [16:17:36] khoi1309 failed Ground Spoof (Type A) [VL: 3] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.0805299414785736 ticks=1
+[09-30-2024] [16:17:36] khoi1309 failed VClip (Type A) [VL: 6] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.1373193647843465 ticks=1
+[09-30-2024] [16:17:36] khoi1309 failed Ground Spoof (Type C) [VL: 4] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.192973000707184 airTicks=1
+[09-30-2024] [16:17:36] khoi1309 failed VClip (Type A) [VL: 7] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.192973000707184 ticks=1
+[09-30-2024] [16:17:37] khoi1309 failed VClip (Type A) [VL: 8] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.247513564973076 ticks=1
+[09-30-2024] [16:17:37] khoi1309 failed Ground Spoof (Type A) [VL: 4] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.247513564973076 ticks=1
+[09-30-2024] [16:17:37] khoi1309 failed Ground Spoof (Type C) [VL: 5] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.3009633189939223 airTicks=1
+[09-30-2024] [16:17:37] khoi1309 failed VClip (Type A) [VL: 9] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.3009633189939223 ticks=1
+[09-30-2024] [16:17:37] khoi1309 failed VClip (Type A) [VL: 10] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.353344078953839 ticks=1
+[09-30-2024] [16:17:37] khoi1309 failed Ground Spoof (Type A) [VL: 5] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.353344078953839 ticks=1
+[09-30-2024] [16:17:37] khoi1309 failed Ground Spoof (Type C) [VL: 6] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.4046772247136232 airTicks=1
+[09-30-2024] [16:17:37] khoi1309 failed VClip (Type A) [VL: 11] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.4046772247136232 ticks=1
+[09-30-2024] [16:17:37] khoi1309 failed VClip (Type A) [VL: 12] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.454983708537327 ticks=1
+[09-30-2024] [21:55:45] Manhtato failed Bad Packets *(Type 7)* [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] lastVel=1302 queue=4 velDelay=35956 tDelay=139
+[09-30-2024] [21:55:46] Manhtato failed Bad Packets *(Type 7)* [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] lastVel=1700 queue=4 velDelay=36354 tDelay=537
+[09-30-2024] [21:55:48] Manhtato failed Bad Packets *(Type 7)* [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] lastVel=101 queue=5 velDelay=38355 tDelay=567
+[09-30-2024] [21:55:48] Manhtato failed Bad Packets *(Type 7)* [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] lastVel=500 queue=5 velDelay=38754 tDelay=966
+[09-30-2024] [22:17:48] Caothanh2008 failed Fast Break (Type A) [VL: 1] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] block=DIAMOND_BLOCK diff=-166.0 tool=NETHERITE_PICKAXE
+[09-30-2024] [22:18:05] Caothanh2008 failed Fast Break (Type A) [VL: 2] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] block=DIAMOND_BLOCK diff=-129.0 tool=NETHERITE_PICKAXE
+[09-30-2024] [22:18:06] Caothanh2008 failed Fast Break (Type A) [VL: 3] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] block=DIAMOND_BLOCK diff=-140.0 tool=NETHERITE_PICKAXE
+[09-30-2024] [22:18:08] Caothanh2008 failed Fast Break (Type A) [VL: 4] [Ping: 25] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] block=DIAMOND_BLOCK diff=-155.0 tool=NETHERITE_PICKAXE
+[09-30-2024] [22:21:51] Caothanh2008 failed Fast Break (Type A) [VL: 5] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] block=DIAMOND_BLOCK diff=-140.0 tool=NETHERITE_PICKAXE
+[09-30-2024] [22:21:52] Caothanh2008 failed Fast Break (Type A) [VL: 6] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] block=DIAMOND_BLOCK diff=-142.0 tool=NETHERITE_PICKAXE
+[09-30-2024] [22:21:53] Caothanh2008 failed Fast Break (Type A) [VL: 7] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] block=DIAMOND_BLOCK diff=-135.0 tool=NETHERITE_PICKAXE
+[09-30-2024] [22:21:54] Caothanh2008 failed Fast Break (Type A) [VL: 8] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] block=DIAMOND_BLOCK diff=-147.0 tool=NETHERITE_PICKAXE
+[09-30-2024] [22:21:56] Caothanh2008 failed Fast Break (Type A) [VL: 9] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] block=DIAMOND_BLOCK diff=-155.0 tool=NETHERITE_PICKAXE
+[09-30-2024] [22:31:10] kakao12342001 failed Jump (Type A) [VL: 1] [Ping: 33] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.3999999761581421 ticks=1 difference=0.02000001072883606
+[09-30-2024] [22:31:51] Mushokujup failed Jump (Type B) [VL: 1] [Ping: 29] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=5.692452893438997 limit=0.41999998688697815 tp=9327
+[09-30-2024] [22:48:06] Manhtato failed Jump (Type B) [VL: 1] [Ping: 30] [TPS: 19.72] [Version: 1.19.4] [Client: Unresolved] deltaY=1.6715999627113405 limit=0.41999998688697815 tp=697
+[09-30-2024] [22:49:09] Caothanh2008 failed Timer (Type D) [VL: 8] [Ping: 26] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] balance=98 delay=0
+[09-30-2024] [22:49:09] Caothanh2008 failed Timer (Type D) [VL: 10] [Ping: 26] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] balance=98 delay=0
+[09-30-2024] [22:49:09] Caothanh2008 failed Timer (Type D) [VL: 12] [Ping: 26] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] balance=94 delay=1
+[09-30-2024] [22:49:09] Caothanh2008 failed Timer (Type D) [VL: 14] [Ping: 26] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] balance=98 delay=0
+[09-30-2024] [22:49:09] Caothanh2008 failed Timer (Type D) [VL: 16] [Ping: 26] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] balance=98 delay=1
+[09-30-2024] [22:51:12] Caothanh2008 failed Jump (Type B) [VL: 1] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=1.6715999627113405 limit=0.41999998688697815 tp=2577
+[09-30-2024] [22:51:23] Manhtato failed Jump (Type B) [VL: 2] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=5.30691821579795 limit=0.41999998688697815 tp=2146
+[09-30-2024] [22:51:23] Manhtato failed Speed (Type B) [VL: 2] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=49.20320026509927 max=1.0693750090762975 diff=48.13382525602297 ticks=0 deltaY=5.30691821579795
+[09-30-2024] [22:51:23] Manhtato failed Speed (Type C) [VL: 2] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=49.20320026509927 max=0.734375007905066 diff=48.468825257194204 ticks=169 deltaY=5.30691821579795
+[09-30-2024] [22:51:23] Manhtato failed Speed (Type D) [VL: 2] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=49.20320026509927 max=1.0693750090762975 diff=48.13382525602297 ticks=0 deltaY=5.30691821579795 tp=2146
+[09-30-2024] [22:53:33] Manhtato failed Jump (Type B) [VL: 3] [Ping: 29] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.969136241553727 limit=0.41999998688697815 tp=417
+[09-30-2024] [22:53:33] Manhtato failed Speed (Type B) [VL: 3] [Ping: 29] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=3.6404922482102133 max=0.7205 diff=2.9199922482102134 ticks=0 deltaY=0.969136241553727
+[09-30-2024] [22:53:33] Manhtato failed Speed (Type D) [VL: 3] [Ping: 29] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=3.6404922482102133 max=0.7205 diff=2.9199922482102134 ticks=0 deltaY=0.969136241553727 tp=417
+[09-30-2024] [22:53:41] Manhtato failed Speed (Type B) [VL: 4] [Ping: 29] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=7.5917333320599 max=0.806959744260736 diff=6.784773587799164 ticks=0 deltaY=9.671606254694673
+[09-30-2024] [22:53:41] Manhtato failed Speed (Type C) [VL: 4] [Ping: 29] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=7.5917333320599 max=0.570459744260736 diff=7.021273587799164 ticks=138 deltaY=9.671606254694673
+[09-30-2024] [22:53:41] Manhtato failed Speed (Type D) [VL: 4] [Ping: 29] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=7.5917333320599 max=0.906959744260736 diff=6.684773587799164 ticks=0 deltaY=9.671606254694673 tp=589
+[09-30-2024] [22:55:59] Manhtato failed Jump (Type B) [VL: 4] [Ping: 28] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=1.6715999627113405 limit=0.41999998688697815 tp=3081
+[09-30-2024] [22:55:59] Manhtato failed Speed (Type B) [VL: 5] [Ping: 28] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=6.796239575754271 max=0.7965 diff=5.999739575754271 ticks=0 deltaY=1.6715999627113405
+[09-30-2024] [22:55:59] Manhtato failed Speed (Type D) [VL: 5] [Ping: 28] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=6.796239575754271 max=0.8965 diff=5.899739575754271 ticks=0 deltaY=1.6715999627113405 tp=3081
+[09-30-2024] [22:56:33] Mushokujup failed Jump (Type B) [VL: 1] [Ping: 26] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=1.6715999627113405 limit=0.41999998688697815 tp=1909
+[09-30-2024] [23:00:12] Manhtato failed Jump (Type B) [VL: 1] [Ping: 29] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=1.6715999627113334 limit=0.5449999868869781 tp=2209
+[09-30-2024] [23:00:43] krostedjulie failed Timer (Type D) [VL: 8] [Ping: 2] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] balance=96 delay=0
+[09-30-2024] [23:00:43] krostedjulie failed Timer (Type D) [VL: 10] [Ping: 2] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] balance=95 delay=1
+[09-30-2024] [23:01:01] Manhtato failed Jump (Type B) [VL: 2] [Ping: 77] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=1.6715999627113334 limit=0.5449999868869781 tp=3071
+[09-30-2024] [23:01:01] Manhtato failed Speed (Type B) [VL: 2] [Ping: 77] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=4.078536039450151 max=0.8965 diff=3.1820360394501512 ticks=0 deltaY=1.6715999627113334
+[09-30-2024] [23:01:01] Manhtato failed Speed (Type C) [VL: 2] [Ping: 77] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=4.078536039450151 max=0.5599999999999999 diff=3.5185360394501513 ticks=197 deltaY=1.6715999627113334
+[09-30-2024] [23:01:01] Manhtato failed Speed (Type D) [VL: 2] [Ping: 77] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=4.078536039450151 max=1.2215 diff=2.8570360394501515 ticks=0 deltaY=1.6715999627113334 tp=3071
+[09-30-2024] [23:03:53] Manhtato failed Jump (Type B) [VL: 3] [Ping: 30] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=1.6715999627113405 limit=0.5449999868869781 tp=1004
+[09-30-2024] [23:03:53] Manhtato failed Speed (Type B) [VL: 3] [Ping: 30] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=2.350145764294898 max=0.8965 diff=1.453645764294898 ticks=0 deltaY=1.6715999627113405
+[09-30-2024] [23:03:53] Manhtato failed Speed (Type D) [VL: 3] [Ping: 30] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=2.350145764294898 max=1.2215 diff=1.128645764294898 ticks=0 deltaY=1.6715999627113405 tp=1004
+[09-30-2024] [23:04:23] Manhtato failed Jump (Type B) [VL: 4] [Ping: 30] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=1.6715999627113405 limit=0.41999998688697815 tp=1471
+[09-30-2024] [23:04:23] Manhtato failed Speed (Type B) [VL: 4] [Ping: 30] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=6.328863727546498 max=0.8465 diff=5.482363727546498 ticks=0 deltaY=1.6715999627113405
+[09-30-2024] [23:04:23] Manhtato failed Speed (Type C) [VL: 4] [Ping: 30] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=6.328863727546498 max=0.61 diff=5.7188637275464975 ticks=123 deltaY=1.6715999627113405
+[09-30-2024] [23:04:23] Manhtato failed Speed (Type D) [VL: 4] [Ping: 30] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=6.328863727546498 max=0.9465 diff=5.3823637275464975 ticks=0 deltaY=1.6715999627113405 tp=1471
+[09-30-2024] [23:05:09] Manhtato failed Jump (Type B) [VL: 1] [Ping: 29] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=1.6715999627113405 limit=0.41999998688697815 tp=2226
+[09-30-2024] [23:06:02] Manhtato failed Jump (Type A) [VL: 1] [Ping: 29] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.3999999761581421 ticks=1 difference=0.02000001072883606
+[09-30-2024] [23:06:03] Manhtato failed Jump (Type A) [VL: 2] [Ping: 29] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.3999999761581421 ticks=1 difference=0.02000001072883606
+[09-30-2024] [23:11:55] Mushokujup failed Jesus (Type B) [VL: 2] [Ping: 26] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.011424380750128194 deltaXZ=0.19578144867348563
+[09-30-2024] [23:13:49] Manhtato failed Jump (Type B) [VL: 1] [Ping: 30] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=2.6715999627113405 limit=0.41999998688697815 tp=2701
+[09-30-2024] [23:14:16] Manhtato failed Jump (Type B) [VL: 2] [Ping: 30] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=2.8478694939613405 limit=0.41999998688697815 tp=3229
+[09-30-2024] [23:14:16] Manhtato failed Speed (Type B) [VL: 2] [Ping: 30] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=29.06091286991655 max=0.7205 diff=28.34041286991655 ticks=0 deltaY=2.8478694939613405
+[09-30-2024] [23:14:16] Manhtato failed Speed (Type C) [VL: 2] [Ping: 30] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=29.06091286991655 max=0.45999999999999996 diff=28.60091286991655 ticks=497 deltaY=2.8478694939613405
+[09-30-2024] [23:14:16] Manhtato failed Speed (Type D) [VL: 2] [Ping: 30] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=29.06091286991655 max=0.7205 diff=28.34041286991655 ticks=0 deltaY=2.8478694939613405 tp=3229
+[09-30-2024] [23:14:16] Manhtato failed Invalid (Type E) [VL: 1] [Ping: 30] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaXZ=29.06091286991655
+[09-30-2024] [23:42:21] Caothanh2008 failed Jump (Type B) [VL: 1] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=1.6715999627113405 limit=0.41999998688697815 tp=5484
+[10-01-2024] [00:30:26] krostedjulie failed Jump (Type B) [VL: 1] [Ping: 2] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=1.1073119474796727 limit=0.41999998688697815 tp=17173
+[10-01-2024] [11:05:43] Caothanh2008 failed Kill Aura (Type A) [VL: 1] [Ping: 25] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] delay=53
+[10-01-2024] [11:05:45] Caothanh2008 failed Kill Aura (Type A) [VL: 2] [Ping: 25] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] delay=66
+[10-01-2024] [11:06:02] Caothanh2008 failed Kill Aura (Type A) [VL: 3] [Ping: 25] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] delay=49
+[10-01-2024] [11:07:41] Caothanh2008 failed Kill Aura (Type A) [VL: 1] [Ping: 14] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] delay=49
+[10-01-2024] [13:43:28] kemhehe failed Jump (Type B) [VL: 1] [Ping: 23] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=1.6715999627113405 limit=0.41999998688697815 tp=5562
+[10-01-2024] [13:59:31] khoi1309 failed Ground Spoof (Type A) [VL: 1] [Ping: 36] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.7811331932098824 ticks=1
+[10-01-2024] [13:59:31] khoi1309 failed Ground Spoof (Type C) [VL: 1] [Ping: 36] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8439105457704983 airTicks=1
+[10-01-2024] [13:59:31] khoi1309 failed VClip (Type A) [VL: 1] [Ping: 36] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8439105457704983 ticks=1
+[10-01-2024] [13:59:31] khoi1309 failed VClip (Type A) [VL: 2] [Ping: 36] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.905432352477284 ticks=1
+[10-01-2024] [14:00:55] khoi1309 failed Ground Spoof (Type C) [VL: 1] [Ping: 39] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8439105457704983 airTicks=1
+[10-01-2024] [14:00:55] khoi1309 failed Ground Spoof (Type C) [VL: 2] [Ping: 39] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9657237242233663 airTicks=1
+[10-01-2024] [14:01:01] khoi1309 failed VClip (Type A) [VL: 1] [Ping: 40] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8415436343683993 ticks=1
+[10-01-2024] [14:09:02] khoi1309 failed Ground Spoof (Type C) [VL: 1] [Ping: 40] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8415436343683922 airTicks=1
+[10-01-2024] [14:09:03] khoi1309 failed Ground Spoof (Type C) [VL: 2] [Ping: 40] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9634505424243116 airTicks=1
+[10-01-2024] [14:15:28] Mushokujup failed Jesus (Type A) [VL: 2] [Ping: 908] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] 
+[10-01-2024] [16:09:44] khoi1309 failed Ground Spoof (Type A) [VL: 1] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.1394588654330846 ticks=1
+[10-01-2024] [16:09:44] khoi1309 failed Ground Spoof (Type A) [VL: 2] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.3029770000061092 ticks=1
+[10-01-2024] [16:09:45] khoi1309 failed Ground Spoof (Type A) [VL: 3] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.406611164032995 ticks=1
+[10-01-2024] [16:09:45] khoi1309 failed Ground Spoof (Type A) [VL: 4] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.5544186209111501 ticks=1
+[10-01-2024] [16:09:45] khoi1309 failed Ground Spoof (Type A) [VL: 5] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.6480957061501158 ticks=1
+[10-01-2024] [16:09:45] khoi1309 failed Ground Spoof (Type A) [VL: 6] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.7817019533461291 ticks=1
+[10-01-2024] [16:09:45] khoi1309 failed Ground Spoof (Type A) [VL: 7] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.8663786271174274 ticks=1
+[10-01-2024] [16:09:45] khoi1309 failed Ground Spoof (Type A) [VL: 8] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.987148104292828 ticks=1
+[10-01-2024] [16:09:45] khoi1309 failed VClip (Type A) [VL: 1] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.063689118167048 ticks=1
+[10-01-2024] [16:09:45] khoi1309 failed Ground Spoof (Type A) [VL: 9] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.063689118167048 ticks=1
+[10-01-2024] [16:09:45] khoi1309 failed VClip (Type A) [VL: 2] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.1008153766913438 ticks=1
+[10-01-2024] [16:09:45] khoi1309 failed VClip (Type A) [VL: 3] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.137199110753272 ticks=1
+[10-01-2024] [16:09:45] khoi1309 failed VClip (Type A) [VL: 4] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.1728551708279156 ticks=1
+[10-01-2024] [16:09:45] khoi1309 failed Ground Spoof (Type A) [VL: 10] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.1728551708279156 ticks=1
+[10-01-2024] [16:09:45] khoi1309 failed Ground Spoof (Type C) [VL: 1] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.2077981103811624 airTicks=1
+[10-01-2024] [16:09:45] khoi1309 failed VClip (Type A) [VL: 5] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.2077981103811624 ticks=1
+[10-01-2024] [16:09:46] khoi1309 failed VClip (Type A) [VL: 6] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.2420421918098157 ticks=1
+[10-01-2024] [16:09:46] khoi1309 failed Ground Spoof (Type A) [VL: 11] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.2420421918098157 ticks=1
+[10-01-2024] [16:09:46] khoi1309 failed Ground Spoof (Type C) [VL: 2] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.27560139226307 airTicks=1
+[10-01-2024] [16:09:46] khoi1309 failed VClip (Type A) [VL: 7] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.27560139226307 ticks=1
+[10-01-2024] [16:09:46] khoi1309 failed VClip (Type A) [VL: 8] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.308489409347345 ticks=1
+[10-01-2024] [16:09:46] khoi1309 failed Ground Spoof (Type C) [VL: 3] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.340719666717206 airTicks=1
+[10-01-2024] [16:09:46] khoi1309 failed VClip (Type A) [VL: 9] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.340719666717206 ticks=1
+[10-01-2024] [16:09:46] khoi1309 failed Ground Spoof (Type A) [VL: 12] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.340719666717206 ticks=1
+[10-01-2024] [16:09:46] khoi1309 failed VClip (Type A) [VL: 10] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.372305319554414 ticks=1
+[10-01-2024] [16:09:46] khoi1309 failed Ground Spoof (Type C) [VL: 4] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.4032592599373572 airTicks=1
+[10-01-2024] [16:09:46] khoi1309 failed VClip (Type A) [VL: 11] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.4032592599373572 ticks=1
+[10-01-2024] [16:09:46] khoi1309 failed Ground Spoof (Type A) [VL: 13] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.4032592599373572 ticks=1
+[10-01-2024] [16:09:46] khoi1309 failed VClip (Type A) [VL: 12] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.433594122103017 ticks=1
+[10-01-2024] [16:09:46] khoi1309 failed Ground Spoof (Type C) [VL: 5] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.463322287603944 airTicks=1
+[10-01-2024] [16:09:46] khoi1309 failed VClip (Type A) [VL: 13] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.463322287603944 ticks=1
+[10-01-2024] [16:09:46] khoi1309 failed VClip (Type A) [VL: 14] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.492455890361896 ticks=1
+[10-01-2024] [16:09:46] khoi1309 failed Ground Spoof (Type A) [VL: 14] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.492455890361896 ticks=1
+[10-01-2024] [16:09:46] khoi1309 failed Ground Spoof (Type C) [VL: 6] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.521006821620361 airTicks=1
+[10-01-2024] [16:09:46] khoi1309 failed VClip (Type A) [VL: 15] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.521006821620361 ticks=1
+[10-01-2024] [16:09:46] khoi1309 failed VClip (Type A) [VL: 16] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.54898673479822 ticks=1
+[10-01-2024] [16:09:46] khoi1309 failed Ground Spoof (Type A) [VL: 15] [Ping: 35] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.54898673479822 ticks=1
+[10-01-2024] [16:09:56] khoi1309 failed VClip (Type A) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.9476460498758428 ticks=1
+[10-01-2024] [16:09:56] khoi1309 failed VClip (Type A) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.987093167552601 ticks=1
+[10-01-2024] [16:09:56] khoi1309 failed VClip (Type A) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.0257513436282295 ticks=1
+[10-01-2024] [16:09:56] khoi1309 failed VClip (Type A) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-2.0636363569196874 ticks=1
+[10-01-2024] [16:14:39] khoi1309 failed Ground Spoof (Type C) [VL: 1] [Ping: 137] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.8439105457704983 airTicks=1
+[10-01-2024] [16:14:39] khoi1309 failed Ground Spoof (Type C) [VL: 2] [Ping: 137] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-0.9657237242233698 airTicks=1
+[10-01-2024] [16:14:40] khoi1309 failed Ground Spoof (Type C) [VL: 3] [Ping: 137] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.0827131053633714 airTicks=1
+[10-01-2024] [16:14:40] khoi1309 failed Ground Spoof (Type C) [VL: 4] [Ping: 137] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.195069711383768 airTicks=1
+[10-01-2024] [16:14:40] khoi1309 failed Ground Spoof (Type C) [VL: 5] [Ping: 137] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=-1.3029770000060985 airTicks=1
+[10-01-2024] [16:29:33] khoi1309 failed Motion (Type A) [VL: 1] [Ping: 37] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.41999998688697815
+[10-01-2024] [19:38:50] Caothanh2008 failed Strafe (Type A) [VL: 2] [Ping: 10] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] difference=0.06819997373447988 deltaXZ=0.9799999937333618
+[10-01-2024] [19:38:50] Caothanh2008 failed Strafe (Type A) [VL: 4] [Ping: 10] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] difference=0.06819997373447988 deltaXZ=0.9799999937333618
+[10-01-2024] [19:38:51] Caothanh2008 failed Strafe (Type A) [VL: 6] [Ping: 10] [TPS: 19.92] [Version: 1.19.4] [Client: Unresolved] difference=1.2914504553999648 deltaXZ=0.9800000370531649
+[10-01-2024] [19:38:51] Caothanh2008 failed Strafe (Type A) [VL: 8] [Ping: 10] [TPS: 19.92] [Version: 1.19.4] [Client: Unresolved] difference=0.14352128985675733 deltaXZ=0.9233529383321878
+[10-01-2024] [19:38:57] Caothanh2008 failed Speed (Type C) [VL: 2] [Ping: 10] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=0.9800000383226014 max=0.734375007905066 diff=0.24562503041753536 ticks=75 deltaY=0.0
+[10-01-2024] [19:38:57] Caothanh2008 failed Flight (Type B) [VL: 2] [Ping: 10] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=0.0 difference=0.0784000015258789 ticks=76 delay=116 tp=188
+[10-01-2024] [19:38:57] Caothanh2008 failed Strafe (Type A) [VL: 10] [Ping: 10] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] difference=0.06841649163164536 deltaXZ=0.9800000022244587
+[10-01-2024] [19:38:57] Caothanh2008 failed Speed (Type A) [VL: 2] [Ping: 10] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] difference=0.06219997449867842 ticks=77 deltaXZ=0.9800000022244587
+[10-01-2024] [19:38:57] Caothanh2008 failed Strafe (Type A) [VL: 12] [Ping: 10] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] difference=0.06819997449867835 deltaXZ=0.9800000022244587
+[10-01-2024] [19:38:57] Caothanh2008 failed Strafe (Type A) [VL: 14] [Ping: 10] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] difference=0.06819997534551965 deltaXZ=0.9800000116338086
+[10-01-2024] [21:22:02] khoi1309 failed Jump (Type A) [VL: 1] [Ping: 37] [TPS: 19.9] [Version: 1.19.4] [Client: Unresolved] deltaY=0.08307781780646906 ticks=7 difference=0.23830982232306752
+[10-01-2024] [21:29:13] Caothanh2008 failed Jump (Type B) [VL: 1] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=3.1715999627113405 limit=0.5449999868869781 tp=3498
+[10-01-2024] [21:32:39] khoi1309 failed Speed (Type B) [VL: 2] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=1.5583798788338488 max=1.0106249776795508 diff=0.5477549011542979 ticks=0 deltaY=0.6715999627113405
+[10-01-2024] [21:32:39] khoi1309 failed Speed (Type C) [VL: 2] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=1.5583798788338488 max=0.6756249765083194 diff=0.8827549023255293 ticks=34 deltaY=0.6715999627113405
+[10-01-2024] [21:33:14] Manhtato failed Bad Packets *(Type 7)* [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] lastVel=242 queue=11 velDelay=24731 tDelay=523
+[10-01-2024] [21:33:14] Manhtato failed Bad Packets *(Type 7)* [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] lastVel=144 queue=12 velDelay=25132 tDelay=924
+[10-01-2024] [21:33:18] Manhtato failed Bad Packets *(Type 7)* [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] lastVel=395 queue=18 velDelay=28883 tDelay=457
+[10-01-2024] [21:33:18] Manhtato failed Bad Packets *(Type 7)* [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] lastVel=293 queue=19 velDelay=29281 tDelay=855
+[10-01-2024] [21:33:20] Manhtato failed Bad Packets *(Type 7)* [VL: 5] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] lastVel=393 queue=22 velDelay=30881 tDelay=334
+[10-01-2024] [21:33:20] Manhtato failed Bad Packets *(Type 7)* [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] lastVel=293 queue=23 velDelay=31282 tDelay=735
+[10-01-2024] [21:33:24] Manhtato failed Bad Packets *(Type 7)* [VL: 7] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] lastVel=144 queue=30 velDelay=35132 tDelay=267
+[10-01-2024] [21:33:25] Manhtato failed Bad Packets *(Type 7)* [VL: 8] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] lastVel=44 queue=31 velDelay=35532 tDelay=667
+[10-01-2024] [21:33:32] Manhtato failed Bad Packets *(Type 7)* [VL: 9] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] lastVel=295 queue=45 velDelay=43283 tDelay=430
+[10-01-2024] [21:33:33] Manhtato failed Bad Packets *(Type 7)* [VL: 10] [Ping: 0] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] lastVel=696 queue=45 velDelay=43684 tDelay=831
+[10-01-2024] [21:34:12] khoi1309 failed Jump (Type B) [VL: 1] [Ping: 40] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=1.6715999627113334 limit=0.41999998688697815 tp=3023
+[10-01-2024] [21:34:12] khoi1309 failed Speed (Type B) [VL: 3] [Ping: 40] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=1.76211180480969 max=1.1681249780550602 diff=0.5939868267546298 ticks=0 deltaY=1.6715999627113334
+[10-01-2024] [21:46:23] kemhehe failed Jump (Type B) [VL: 1] [Ping: 21] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=1.1215999627113433 limit=0.41999998688697815 tp=2799
+[10-01-2024] [21:46:23] kemhehe failed Speed (Type B) [VL: 2] [Ping: 21] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=2.240355641431051 max=1.0693750090762975 diff=1.1709806323547536 ticks=0 deltaY=1.1215999627113433
+[10-01-2024] [21:46:23] kemhehe failed Speed (Type C) [VL: 2] [Ping: 21] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=2.240355641431051 max=0.734375007905066 diff=1.505980633525985 ticks=42 deltaY=1.1215999627113433
+[10-01-2024] [21:48:20] Caothanh2008 failed Jump (Type B) [VL: 1] [Ping: 24] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] deltaY=1.6090999627113405 limit=0.41999998688697815 tp=88
+[10-01-2024] [21:58:44] khoi1309 failed Speed (Type C) [VL: 2] [Ping: 38] [TPS: 20] [Version: 1.19.4] [Client: Unresolved] speed=2.2358920345769575 max=0.8631249769553543 diff=1.3727670576216031 ticks=22 deltaY=1.6715999627113405

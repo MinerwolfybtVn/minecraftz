@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 171.229.231.157
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727544878366
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727796210547
+  login: 1727795409588
+money: '0'
+last-account-name: kakao12342001
+logoutlocation:
+  world: 4446dd65-ac25-413b-b00a-e4a07ffeb151
+  world-name: world
+  x: 182.78028631102976
+  y: 68.5
+  z: -900.3848686893928
+  yaw: -126.615966796875
+  pitch: 21.300235748291016
+lastlocation:
+  world: 4446dd65-ac25-413b-b00a-e4a07ffeb151
+  world-name: world
+  x: 64.69999998807907
+  y: -44.0
+  z: -872.6999999880791
+  yaw: 22.938446044921875
+  pitch: 9.750004768371582

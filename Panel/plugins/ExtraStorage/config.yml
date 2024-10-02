@@ -1,0 +1,75 @@
+
+ConfigVersion: 3.1.0
+
+CheckForUpdates: true
+
+Database:
+  Type: 'SQLite'
+  Database: 'database'
+  Table: 'exstorage_data'
+  Host: '127.0.0.1'
+  Port: 3306
+  Username: 'root'
+  Password: ''
+
+  PoolSettings:
+    MaxPoolSize: 5
+    MinimumIdle: 5
+    MaxLifetime: 900000
+    ConnectionTimeout: 5000
+
+DateFormat: 'MM/dd/yyyy HH:mm:ss'
+
+OnlyStoreWhenInvFull: false
+
+AutoUpdateTime: 10
+RestartOnChange: true
+
+Log:
+  Sales: false
+  Transfer: false
+  Withdraw: false
+
+Economy:
+  Provider: 'Vault'
+  Currency: ''
+
+MaxSpace: 100000
+BlockedMining: true
+
+AutoStoreItem: true
+PickupToStorage: true
+PickupSound: 'entity_item_pickup'
+
+BlacklistWorlds:
+- 'example_world'
+
+Blacklist:
+- 'BEDROCK' #Or can be 'bedrock:0'
+
+Whitelist:
+- 'STONE' #Will be automatically changed to 'STONE:0', and it is <material-key> you should remember.
+- 'COBBLESTONE'
+- 'COAL_BLOCK'
+- 'LAPIS_BLOCK'
+- 'REDSTONE_BLOCK'
+- 'IRON_BLOCK'
+- 'GOLD_BLOCK'
+- 'DIAMOND_BLOCK'
+- 'EMERALD_BLOCK'
+- 'COAL'
+- 'REDSTONE'
+- 'IRON_ORE'
+- 'GOLD_ORE'
+- 'DIAMOND'
+- 'EMERALD'
+
+FormatName:
+  COBBLESTONE:0: '&7Cobblestone'
+  COAL_BLOCK:0: '&8Coal Block'
+  LAPIS_BLOCK:0: '&9Lapis Block'
+  REDSTONE_BLOCK:0: '&cRedstone Block'
+  IRON_BLOCK:0: '&fIron Block'
+  GOLD_BLOCK:0: '&eGold Block'
+  DIAMOND_BLOCK:0: '&bDiamond Block'
+  EMERALD_BLOCK:0: '&aEmerald Block'

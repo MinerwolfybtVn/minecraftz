@@ -1,0 +1,180 @@
+version: 4.4
+prefix: "Hệ thống chống tấn công từ chối dịch vụ phân tán&r &7» "
+onping: #<-- chỉ hoạt động trên bungeecord!
+  normal: "&c&l◆ &f&l$1&7/&c&l$2"
+  ready: "&f&l◆ &c&lĐÃ XÁC MINH!"
+commands:
+  perms: "&fBạn không có &cquyền&f để thực hiện lệnh này!"
+  cleared: "&c$1&f đã được &cxóa!"
+  added: "&c$1&f đã được thêm vào &c$2"
+  removed: "&c$1&f đã được xóa khỏi &c$2"
+  wrong-args: "&fLệnh không hợp lệ! Sử dụng &c/uab help!"
+  no-blacklist: "&cID này không liên kết với bất kỳ thứ gì!"
+  invalid-log-value: "&cGiá trị cung cấp không liên kết với nhật ký nào!"
+  reload: "&fCấu hình và tin nhắn đã được tải lại! Khuyến cáo không nên sử dụng lệnh này vì có thể gây ra sự cố, nên khởi động lại máy chủ!"
+analyzer:
+  increase: "&a↑ &7- &f%old% &c➜ &f%new% &7- &c%perc%%"
+  decrease: "&c↓ &7- &f%old% &c➜ &f%new% &7- &c%perc%%"
+notifications:
+  action: "&aBật/Tắt thông báo ActionBar!"
+  title: "&aBật/Tắt thông báo Title!"
+  bossbar: "&aBật/Tắt thông báo BossBar"
+#(!) BIẾN CHỮ (!)
+#Những biến này có thể được sử dụng trong actionbar, title và phần thống kê dưới đây!
+#%bots% - trả về botpersecond
+#%queue% - trả về queue
+#%pings% - trả về pingpersecond
+#%whitelist% - trả về kích thước whitelist
+#%blacklist% - trả về kích thước blacklist
+#%type% - trả về loại tấn công hiện tại
+#%checks% - trả về checkspersecond
+#%latency% - trả về độ trễ của máy chủ (cần bật luồng độ trễ)
+#%packets% - trả về packetspersecond
+#%totalpackets% - trả về tổng số packets
+#%totalbots% - trả về tổng số bot
+#%totalpings% - trả về tổng số pings
+#%prefix% - trả về prefix
+#%underverification% - trả về người chơi đang trong quá trình xác minh
+#%attack-types% - trả về danh sách các loại tấn công đã phát hiện (beta)
+actionbar:
+  offline: "%prefix%&cTham gia&7/&cPing &f%bots%&7/&f%pings% &4- &cXác minh &f%underverification% &4- &cWhitelist &f%whitelist% » &c&l%type%"
+  antibot: "%prefix%&cBot&7/&cPing &f%bots%&7/&f%pings% &4- &cBlacklist&7/&cQueue&7/&cWhitelist &f%blacklist%&7/&f%queue%&7/&f%whitelist% &4- &cXác minh &f%underverification% » &c&l%type%"
+  packets: "%prefix%&cPackets &f%packets%/giây &4- &cBị chặn &f%totalpackets% &4- &cXác minh &f%underverification% » &c&l%type%"
+title:
+  title: "&f%totalbots% &cBot Bị Chặn"
+  subtitle: "&f%blacklist% &cDanh Sách Đen Hiện Tại"
+stats:
+  - "&cThống Kê Phiên Hiện Tại:"
+  - ""
+  - "&cBot Bị Chặn &f%totalbots%"
+  - "&cTổng Số Ping &f%totalpings%"
+  - "&cTổng Số Packets &f%totalpackets%"
+  - "&cIP Được Whitelist &f%whitelist%"
+  - "&cIP Được Blacklist &f%blacklist%"
+  - "&cCác Cuộc Tấn Công Hiện Tại &f%attack-types%"
+  - ""
+  - "&cĐộ trễ máy chủ hiện tại là &f%latency%"
+reason:
+  names: "Quá nhiều biệt danh trên IP của bạn"
+  joins: "Quá nhiều lần tham gia từ IP của bạn"
+  pings: "Quá nhiều ping từ IP của bạn"
+  strange: "Người chơi lạ"
+  vpn: "Bạn đang sử dụng VPN/PROXY"
+  admin: "Quản trị viên đã đưa bạn vào danh sách đen"
+  check: "Quá nhiều lần kiểm tra thất bại!"
+help:
+  - ""
+  - "&c/uab &chelp &7- &fHiển thị thông điệp này"
+  - "&c/uab &ctoggle &factionbar/title/bossbar &7- &fBật/tắt thông báo"
+  - "&c/uab &cstats &7- &fHiển thị thống kê antibot"
+  - "&c/uab &cclear &fblacklist/whitelist &7- &fXóa danh sách đen hoặc danh sách trắng"
+  - "&c/uab &cwhitelist &fadd/remove &f<ip> &7- &fQuản lý danh sách trắng"
+  - "&c/uab &cblacklist &fadd/remove &f<ip/name>&7- &fQuản lý danh sách đen"
+  - "&c/uab logs list <số lượng> &7- &fHiển thị các cuộc tấn công gần đây"
+  - "&c/uab logs info <id> &7- &fHiển thị thông tin cuộc tấn công cuối cùng"
+  - "&c/uab cache status/clear &7- &fQuản lý bộ nhớ cache của UAB"
+  - "&c/uab profile <nick> &7- &fKiểm tra thông tin kết nối"
+  - "&c/uab &cfirewall &7- &fHiển thị thông tin tường lửa"
+  - "&c/uab &ccheck &f<id> &7- &fKiểm tra người chơi bị đưa vào danh sách đen"
+  - "&c/uab &creload &7- &fTải lại cấu hình & tin nhắn"
+  - "&c/uab &cdump &7- &fThông tin hữu ích để cung cấp hỗ trợ!"
+attack-log:
+  - "&cID Tấn Công&f %id%"
+  - "&cNgày Tấn Công&f %attack%"
+  - "&cIP Bị Đưa Vào Danh Sách Đen &f%blacklist%"
+  - "&cBot Bị Chặn &f%bots%"
+  - "&cPing Bị Chặn &f%pings%"
+  - "&cPackets Bị Chặn &f%packets%"
+  - "&cCPS Trung Bình &f%avg%"
+  - "&cSức Mạnh Tấn Công &f%power%"
+  - "&cThời Lượng &f%duration%"
+firewall:
+  - "&cTrạng Thái Tường Lửa: %status%"
+  - ""
+  - "&cIP trong hàng đợi: %queue%"
+  - "&cIP bị đưa vào danh sách đen: %blacklist%"
+  - ""
+  - "&cĐây là thống kê tường lửa UAB, chỉ hoạt động nếu bạn bật trong cấu hình!"
+  - "&cCuộc tấn công sẽ được giảm thiểu khi tất cả các IP bị chặn!"
+antibotmode:
+  - "&fᛃ Hệ thống chống tấn công từ chối dịch vụ phân tán &fᛃ"
+  - ""
+  - "&7Chế độ bảo vệ chống bot đã được kích hoạt!"
+  - "&7Nó sẽ duy trì hoạt động cho đến khi &c$1%&7 của IP bị đưa vào danh sách đen"
+  - "&7Danh sách đen hiện tại là &c$2%"
+  - ""
+  - "&cDiscord &7» &c&nhttps://discord.gg/8bbAWHgYzT"
+  - "&c&nminecraft.com.vn"
+first_join:
+  - "&fᛃ &4 Hệ thống chống tấn công từ chối dịch vụ phân tán &fᛃ"
+  - ""
+  - "&cChúng tôi đã phân tích kết nối của bạn thành công!"
+  - "&cBây giờ bạn có thể tham gia lại"
+  - ""
+  - "&cDiscord &7» &c&nhttps://discord.gg/8bbAWHgYzT"
+  - "&c&nminecraft.com.vn"
+safe_mode:
+  - "&fᛃ Hệ thống chống tấn công từ chối dịch vụ phân tán  &fᛃ"
+  - ""
+  - "&7Chúng tôi không thể xác minh &cbạn&7 kịp thời!"
+  - "&7Máy chủ đã nhận được một cuộc tấn công &cbot&7 và bạn đã bị ngắt kết nối"
+  - "&c&nQuay lại sau một vài phút"
+  - ""
+  - "&cDiscord &7» &c&nhttps://discord.gg/8bbAWHgYzT"
+  - "&c&nminecraft.com.vn"
+account-online:
+  - "&fᛃ Hệ thống chống tấn công từ chối dịch vụ phân tán &fᛃ"
+  - ""
+  - "&7Bạn có quá nhiều tài khoản kết nối cùng lúc &ctrên máy chủ!"
+  - ""
+  - "&cDiscord &7» &c&nhttps://discord.gg/8bbAWHgYzT"
+  - "&c&nminecraft.com.vn"
+ping:
+  - "&fᛃ Hệ thống chống tấn công từ chối dịch vụ phân tán &fᛃ"
+  - ""
+  - "&7Ping máy chủ chính xác &c$1&7 lần và tham gia"
+  - ""
+  - "&cDiscord &7» &c&nhttps://discord.gg/8bbAWHgYzT"
+  - "&c&nminecraft.com.vn"
+timer:
+  - "&fᛃ Hệ thống chống tấn công từ chối dịch vụ phân tán &fᛃ"
+  - ""
+  - "&7Tham gia lại máy chủ sau &c$1&7 giây"
+  - ""
+  - "&cDiscord &7» &c&nhttps://discord.gg/8bbAWHgYzT"
+  - "&c&nminecraft.com.vn"
+blacklisted:
+  - "&fᛃ Hệ thống chống tấn công từ chối dịch vụ phân tán &fᛃ"
+  - ""
+  - "&7Bạn đã bị đưa vào danh sách đen bởi Hệ Thống Chống Bot"
+  - "&7Liên hệ với chúng tôi trên discord cung cấp ID của bạn để có thể &cchơi!"
+  - ""
+  - "&cLý Do &7» &c$1"
+  - "&cID &7» &c$2"
+  - ""
+  - "&cDiscord &7» &c&nhttps://discord.gg/8bbAWHgYzT"
+  - "&c&nminecraft.com.vn"
+wait:
+  - "&fᛃ Hệ thống chống tấn công từ chối dịch vụ phân tán &fᛃ"
+  - ""
+  - "&7Bạn đang thực hiện quá nhiều lần thử! Chờ &c10 &7giây"
+  - ""
+  - "&cDiscord &7» &c&nhttps://discord.gg/8bbAWHgYzT"
+  - "&c&nminecraft.com.vn"
+fastjoin-queue:
+  - "&fᛃ Hệ thống chống tấn công từ chối dịch vụ phân tán &fᛃ"
+  - ""
+  - "&7Bạn đã được xếp hàng chờ xác minh! Thời gian ước tính là &c3/5&7 giây!"
+  - ""
+  - "&cDiscord &7» &c&nhttps://discord.gg/8bbAWHgYzT"
+  - "&c&nminecraft.com.vn"
+
+bossbar_idle_message: "&fĐang chờ tấn công"
+blacklist_info:
+  - "&c&lTHÔNG TIN DANH SÁCH ĐEN:"
+  - ""
+  - "&cLý Do &7» &c$reason"
+  - "&cIP &7» &c$ip"
+  - "&cBiệt Danh &7» &c$nick"
+  - "&cID &7» &c$id"
+  - ""

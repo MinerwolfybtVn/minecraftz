@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 14.178.74.22
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727765382825
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727865427998
+  login: 1727866039788
+money: '0'
+logoutlocation:
+  world: 4446dd65-ac25-413b-b00a-e4a07ffeb151
+  world-name: world
+  x: 56.99372454066386
+  y: 77.0
+  z: -946.0749999880791
+  yaw: -26.761474609375
+  pitch: 40.19957733154297
+last-account-name: MinerwolfybtVn
+lastlocation:
+  world: 4446dd65-ac25-413b-b00a-e4a07ffeb151
+  world-name: world
+  x: 116.1094730483287
+  y: 64.0
+  z: -981.4875000119209
+  yaw: 9.15362548828125
+  pitch: 16.696130752563477
+homes:
+  home:
+    world: 4446dd65-ac25-413b-b00a-e4a07ffeb151
+    world-name: world
+    x: -212.13685804676405
+    y: 68.0
+    z: -794.2968415273998
+    yaw: 11.00567626953125
+    pitch: 10.416501998901367

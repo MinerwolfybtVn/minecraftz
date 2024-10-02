@@ -1,0 +1,25 @@
+#cài đặt plugin
+GlobalSettings:
+  # Cái này sẽ hay hơn tí, khi bị block thì vẫn sẽ gửi tin nhắn đến người chơi có cùng IP còn ngkhac thì ko
+  # còn những người chơi khác IP thì vẫn bị block :))
+  IPWideBlock: false
+BlacklistDetection:
+  enableRegex: true
+  triggers: # RegEx
+    - 't.*e.*a.*m.*u.*p'
+    - 'miniflex?(jav)'
+
+# Tính năng: Phát hiện spam
+SpamDetection:
+  # Bật tính năng này?
+  Enabled: true
+  # Số lượng tin nhắn tối đa
+  Count: 5
+  # Trong khoảng thời gian (tính bằng mili-giây)
+  Time: 6000 # là 6 giây.
+
+Locale:
+  notify-format: "&f[&cNAID-CHAT-VIOLATION&f] %player%: %message%" #chỗ này chỉnh cấu hình tin nhắn
+
+# Từ dòng này trở đi không được edit
+config-version: 4

@@ -1,0 +1,109 @@
+Settings:
+  Title: '           &0ʏᴏᴜʀ sᴛᴏʀᴀɢᴇ' # Tên tiêu đề lưu trữ, bạn có thể thay đổi tên này theo ý muốn
+  Rows: 6
+
+  DefaultSort: MATERIAL # Sắp xếp mặc định theo loại vật liệu
+
+  Sound: 'ui_button_click' # Âm thanh khi bấm nút
+
+RepresentItem:
+  Name: '' # Tên vật phẩm đại diện
+  Lore:
+  - ''
+  - '&7+ Trạng thái: &r{status}' # Trạng thái của vật phẩm
+  - ''
+  - '&7+ Số lượng: &e{quantity}' # Số lượng vật phẩm
+  - ''
+  - '&8[&6Chuột trái&8] &7Rút một vật phẩm.' # Chuột trái để rút một vật phẩm
+  - '&8[&6Chuột phải&8] &7Rút một đống.' # Chuột phải để rút một đống vật phẩm
+  - '&8[&6Shift Chuột trái&8] &7Rút tất cả.' # Shift + Chuột trái để rút tất cả vật phẩm
+  - '&8[&6Shift Chuột phải&8] &7Thêm tất cả vào kho lưu trữ.' # Shift + Chuột phải để thêm tất cả vào kho lưu trữ
+  Slots: [11-17, 20-26, 29-35] # Các slot hiển thị
+
+ControlItems:
+  About:
+    Model: '' # Có thể không cần cấu hình
+    Material: 'PAPER'
+    Amount: 1 # Có thể không cần cấu hình
+    Data: 0 # Có thể không cần cấu hình
+    Texture: '%player%'
+    CustomModelData: 0 # Chỉ dùng trên server phiên bản 1.14+. Có thể không cần cấu hình
+    Name: '#dcdde1Thông tin lưu trữ của người chơi' # Thông tin lưu trữ của người chơi
+    Lore: # Mô tả
+    - ''
+    - '&7+ Chủ sở hữu: &b{player}' # Hiển thị tên người chơi
+    - ''
+    - '&7+ Trạng thái: &r{status}' # Hiển thị trạng thái lưu trữ
+    - ''
+    - '&7+ Dung lượng: &eKhông Giới Hạn' # Dung lượng lưu trữ
+    - ''
+    - '&7+ Dung lượng đã dùng: &f{used_space} &7/ &cKhông Giới Hạn' # Hiển thị dung lượng đã dùng và phần trăm đã dùng
+    - ''
+    - ''
+    - '&8[&6Bấm&8] #dcdde1Thay đổi trạng thái lưu trữ.' # Thay đổi trạng thái lưu trữ khi bấm
+    Slot: 50
+  PreviousPage:
+    Material: 'ARROW'
+    Name: '&8[&6Bấm&8] #dcdde1Trang trước'
+    Lore:
+    - '&7Trang hiện tại: &f{page}&7/&c{max_pages}' # Hiển thị trang hiện tại
+    Slot: 48
+  NextPage:
+    Material: 'ARROW'
+    Name: '&8[&6Bấm&8] #dcdde1Trang tiếp theo'
+    Lore:
+    - '&7Trang hiện tại: &f{page}&7/&c{max_pages}' # Hiển thị trang tiếp theo
+    Slot: 52
+
+  SwitchGui:
+    Material: 'CHEST_MINECART'
+    Name: '#dcdde1Chuyển sang kho lưu trữ khác'
+    Lore:
+    - ''
+    - '&8 ● &7Đối tác'
+    - '&8 ● &7Bộ lọc'
+    - '&2→ &aLưu trữ'
+    - '&8 ● &7Bán hàng'
+    - ''
+    - '&8[&6Chuột trái&8] #dcdde1Chuyển sang kho lưu trữ tiếp theo'
+    - '&8[&6Chuột phải&8] #dcdde1Quay lại kho lưu trữ trước'
+    Slot: 49
+
+  SortByMaterial:
+    Material: 'BOOK'
+    Name: '#dcdde1Sắp xếp theo loại vật liệu'
+    Lore:
+    - ''
+    - '&2→ &aTheo loại vật liệu'
+    - '&8 ● &7Theo tên'
+    - '&8 ● &7Theo số lượng'
+    - '&8 ● &7Không lọc'
+    - ''
+    - '&8[&6Chuột trái&8] #dcdde1Lọc tiếp theo'
+    - '&8[&6Chuột phải&8] #dcdde1Lọc trước'
+    - '&8[&6Shift Chuột trái&8] #dcdde1Đảo ngược lọc'
+    Slot: 51
+  SortByName:
+    Material: 'BOOK'
+    Name: '#dcdde1Sắp xếp theo tên'
+    Lore:
+    - ''
+    - '&8 ● &7Theo loại vật liệu'
+    - '&2→ &aTheo tên'
+    - '&8 ● &7Theo số lượng'
+    - '&8 ● &7Không lọc'
+    - ''
+    - '&8[&6Chuột trái&8] #dcdde1Lọc tiếp theo'
+    - '&8[&6Chuột phải&8] #dcdde1Lọc trước'
+    - '&8[&6Shift Chuột trái&8] #dcdde1Đảo ngược lọc'
+    Slot: 51
+
+DecorateItems:
+  border:
+    Material: 'BLACK_STAINED_GLASS_PANE'
+    Name: ' '
+    Slots: [0-10, 18, 19, 27, 28, 36, 37, 45, 46-48, 52-54]
+  divider:
+    Material: 'GRAY_STAINED_GLASS_PANE'
+    Name: ' '
+    Slots: [38-44]

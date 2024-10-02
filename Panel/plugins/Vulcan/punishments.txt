@@ -1,0 +1,544 @@
+--------------[ Caothanh2008 was punished for Elytra (Type C) ]--------------
+
+Date & Time:
+ - Date: 09-28-2024
+ - Time: 21:20:43
+
+Location:
+ - World: world
+ - X: 128.98523190607582
+ - Y: 71.49202434522444
+ - Z: -938.4240942574038
+
+Information:
+ - UUID: 641bacf4-63d3-3a1f-afca-d94c11b93b84
+ - Keep Alive Ping: 24
+ - Transaction Ping: 47
+ - Server TPS: 20
+ - Sensitivity: 57
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 23.6 seconds ago
+
+Total Violations: 30
+ - Combat Violations: 0
+ - Movement Violations: 30
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 2385
+ - Since Riptide Ticks: 1850
+ - Flying Delay: 73
+ - Since Velocity Ticks: 472
+ - Since Firework Ticks: 1850
+ - Ticks Existed: 2386
+ - Since Vehicle Ticks: 398
+ - Since Liquid Ticks: 828
+ - Queued Transactions: 0
+ - Joined: 280 seconds ago
+ - Holding Item (Main Hand): ItemStack{NETHERITE_CHESTPLATE x 1, ARMOR_META:{meta-type=ARMOR, enchants={MENDING=1, PROTECTION_ENVIRONMENTAL=4, DURABILITY=3}, repair-cost=7}}
+ - Holding Item (Off Hand): ItemStack{GOLDEN_CARROT x 34}
+
+All Violations:
+ - Elytra (Type C) [VL: 15] (Invalid acceleration.)
+ - Elytra (Type G) [VL: 10] (Invalid acceleration.)
+ - Elytra (Type K) [VL: 5] (Accelerating while ascending.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftAreaEffectCloud, CraftAreaEffectCloud, CraftPlayer{name=F4R1K0}]
+Potion Effects: [REGENERATION:(289t-x0), DAMAGE_RESISTANCE:(289t-x0), SPEED:(289t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ Caothanh2008 was punished for Elytra (Type K) ]--------------
+
+Date & Time:
+ - Date: 09-28-2024
+ - Time: 21:23:13
+
+Location:
+ - World: world
+ - X: 156.5011586938076
+ - Y: 80.45886506726916
+ - Z: -950.1705570088504
+
+Information:
+ - UUID: 641bacf4-63d3-3a1f-afca-d94c11b93b84
+ - Keep Alive Ping: 22
+ - Transaction Ping: 41
+ - Server TPS: 20
+ - Sensitivity: 57
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 63.9 seconds ago
+
+Total Violations: 32
+ - Combat Violations: 0
+ - Movement Violations: 32
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 2068
+ - Since Riptide Ticks: 1892
+ - Flying Delay: 65
+ - Since Velocity Ticks: 1278
+ - Since Firework Ticks: 1892
+ - Ticks Existed: 1968
+ - Since Vehicle Ticks: 1792
+ - Since Liquid Ticks: 1792
+ - Queued Transactions: 1
+ - Joined: 145 seconds ago
+ - Holding Item (Main Hand): ItemStack{NETHERITE_CHESTPLATE x 1, ARMOR_META:{meta-type=ARMOR, enchants={MENDING=1, PROTECTION_ENVIRONMENTAL=4, DURABILITY=3}, repair-cost=7}}
+ - Holding Item (Off Hand): ItemStack{GOLDEN_CARROT x 34}
+
+All Violations:
+ - Elytra (Type C) [VL: 10] (Invalid acceleration.)
+ - Elytra (Type G) [VL: 7] (Invalid acceleration.)
+ - Elytra (Type K) [VL: 15] (Accelerating while ascending.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ khoi1309 was punished for Ground Spoof (Type A) ]--------------
+
+Date & Time:
+ - Date: 09-29-2024
+ - Time: 08:31:08
+
+Location:
+ - World: world
+ - X: 111.03023708561713
+ - Y: 132.681525005799
+ - Z: -880.7550563600237
+
+Information:
+ - UUID: 43e904f7-2dd9-3eed-9e82-b54d51228095
+ - Keep Alive Ping: 121
+ - Transaction Ping: 123
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 316.05 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 15
+
+Misc Information:
+ - Since Teleport Ticks: 3112
+ - Since Riptide Ticks: 13926
+ - Flying Delay: 0
+ - Since Velocity Ticks: 6321
+ - Since Firework Ticks: 1
+ - Ticks Existed: 15537
+ - Since Vehicle Ticks: 13826
+ - Since Liquid Ticks: 86
+ - Queued Transactions: 0
+ - Joined: 1055 seconds ago
+ - Holding Item (Main Hand): ItemStack{FIREWORK_ROCKET x 38, FIREWORK_META:{meta-type=FIREWORK, power=1}}
+ - Holding Item (Off Hand): ItemStack{ELYTRA x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={MENDING=1, DURABILITY=3}, repair-cost=3, Damage=8}}
+
+All Violations:
+ - Ground Spoof (Type A) [VL: 15] (Spoofed onGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ khoi1309 was punished for Improbable (Type E) ]--------------
+
+Date & Time:
+ - Date: 09-29-2024
+ - Time: 08:44:59
+
+Location:
+ - World: world
+ - X: 103.63788745120189
+ - Y: 153.1754922962071
+ - Z: -886.1547653546672
+
+Information:
+ - UUID: 43e904f7-2dd9-3eed-9e82-b54d51228095
+ - Keep Alive Ping: 55
+ - Transaction Ping: 35
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 10.8 seconds ago
+
+Total Violations: 53
+ - Combat Violations: 0
+ - Movement Violations: 27
+ - Player Violations: 26
+
+Misc Information:
+ - Since Teleport Ticks: 1181
+ - Since Riptide Ticks: 2961
+ - Flying Delay: 1
+ - Since Velocity Ticks: 216
+ - Since Firework Ticks: 284
+ - Ticks Existed: 3080
+ - Since Vehicle Ticks: 2861
+ - Since Liquid Ticks: 689
+ - Queued Transactions: 0
+ - Joined: 189 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Ground Spoof (Type A) [VL: 11] (Spoofed onGround value.)
+ - Ground Spoof (Type C) [VL: 14] (Spoofed OnGround value.)
+ - Improbable (Type E) [VL: 1] (Too many combined violations.)
+ - VClip (Type A) [VL: 27] (Large vertical movement.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Caothanh2008 was punished for Elytra (Type A) ]--------------
+
+Date & Time:
+ - Date: 09-29-2024
+ - Time: 12:57:41
+
+Location:
+ - World: world
+ - X: 90.88323480789329
+ - Y: 130.85362164217682
+ - Z: -2874.2470934048342
+
+Information:
+ - UUID: 641bacf4-63d3-3a1f-afca-d94c11b93b84
+ - Keep Alive Ping: 24
+ - Transaction Ping: 221
+ - Server TPS: 20
+ - Sensitivity: 57
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 221.9 seconds ago
+
+Total Violations: 26
+ - Combat Violations: 0
+ - Movement Violations: 26
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 3918
+ - Since Riptide Ticks: 24954
+ - Flying Delay: 0
+ - Since Velocity Ticks: 4438
+ - Since Firework Ticks: 163
+ - Ticks Existed: 31091
+ - Since Vehicle Ticks: 6131
+ - Since Liquid Ticks: 2318
+ - Queued Transactions: 0
+ - Joined: 2344 seconds ago
+ - Holding Item (Main Hand): ItemStack{FIREWORK_ROCKET x 17, FIREWORK_META:{meta-type=FIREWORK, power=3}}
+ - Holding Item (Off Hand): ItemStack{GOLDEN_CARROT x 30}
+
+All Violations:
+ - Elytra (Type A) [VL: 15] (Gliding too quickly on X/Z axis.)
+ - Elytra (Type C) [VL: 4] (Invalid acceleration.)
+ - Elytra (Type G) [VL: 7] (Invalid acceleration.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Caothanh2008 was punished for Improbable (Type B) ]--------------
+
+Date & Time:
+ - Date: 09-29-2024
+ - Time: 13:09:27
+
+Location:
+ - World: world_nether
+ - X: 175.8011744720203
+ - Y: 53.05260180796076
+ - Z: -299.7670379576299
+
+Information:
+ - UUID: 641bacf4-63d3-3a1f-afca-d94c11b93b84
+ - Keep Alive Ping: 27
+ - Transaction Ping: 33
+ - Server TPS: 20
+ - Sensitivity: 57
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 7.6 seconds ago
+
+Total Violations: 33
+ - Combat Violations: 0
+ - Movement Violations: 31
+ - Player Violations: 2
+
+Misc Information:
+ - Since Teleport Ticks: 1264
+ - Since Riptide Ticks: 10075
+ - Flying Delay: 48
+ - Since Velocity Ticks: 152
+ - Since Firework Ticks: 4186
+ - Ticks Existed: 10708
+ - Since Vehicle Ticks: 9975
+ - Since Liquid Ticks: 75
+ - Queued Transactions: 0
+ - Joined: 702 seconds ago
+ - Holding Item (Main Hand): ItemStack{NETHERITE_CHESTPLATE x 1, ARMOR_META:{meta-type=ARMOR, enchants={MENDING=1, PROTECTION_ENVIRONMENTAL=4, DURABILITY=3}, repair-cost=7, Damage=1}}
+ - Holding Item (Off Hand): ItemStack{GOLDEN_CARROT x 29}
+
+All Violations:
+ - Elytra (Type C) [VL: 13] (Invalid acceleration.)
+ - Elytra (Type G) [VL: 11] (Invalid acceleration.)
+ - Elytra (Type K) [VL: 7] (Accelerating while ascending.)
+ - Ground Spoof (Type C) [VL: 1] (Spoofed OnGround value.)
+ - Improbable (Type B) [VL: 1] (Too many combined movement violations.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Caothanh2008 was punished for Improbable (Type B) ]--------------
+
+Date & Time:
+ - Date: 09-29-2024
+ - Time: 13:09:55
+
+Location:
+ - World: world_nether
+ - X: 170.26129645843218
+ - Y: 43.7705229791787
+ - Z: -345.945478027484
+
+Information:
+ - UUID: 641bacf4-63d3-3a1f-afca-d94c11b93b84
+ - Keep Alive Ping: 6
+ - Transaction Ping: 36
+ - Server TPS: 20
+ - Sensitivity: 57
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 17.85 seconds ago
+
+Total Violations: 32
+ - Combat Violations: 0
+ - Movement Violations: 31
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 431
+ - Since Riptide Ticks: 537
+ - Flying Delay: 32
+ - Since Velocity Ticks: 357
+ - Since Firework Ticks: 537
+ - Ticks Existed: 432
+ - Since Vehicle Ticks: 437
+ - Since Liquid Ticks: 178
+ - Queued Transactions: 0
+ - Joined: 26 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{GOLDEN_CARROT x 28}
+
+All Violations:
+ - Flight (Type E) [VL: 1] (Invalid Y-Axis movement.)
+ - Jump (Type A) [VL: 4] (Invalid jump motion.)
+ - Motion (Type A) [VL: 1] (Repeated vertical motions.)
+ - Speed (Type A) [VL: 1] (Invalid friction.)
+ - Speed (Type B) [VL: 5] (Moving too quickly on the ground.)
+ - Speed (Type C) [VL: 10] (Moving too quickly in the air.)
+ - Speed (Type D) [VL: 5] (Moving too quickly on the ground.)
+ - Strafe (Type A) [VL: 4] (Moving incorrectly in the air.)
+ - Improbable (Type B) [VL: 1] (Too many combined movement violations.)
+
+Blocks Nearby: [CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, AIR, AIR, AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, AIR, AIR, AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, CAVE_AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Caothanh2008 was punished for Jump (Type A) ]--------------
+
+Date & Time:
+ - Date: 09-29-2024
+ - Time: 13:35:16
+
+Location:
+ - World: world
+ - X: 77.06315485540998
+ - Y: 64.19571126131588
+ - Z: -942.5975546949812
+
+Information:
+ - UUID: 641bacf4-63d3-3a1f-afca-d94c11b93b84
+ - Keep Alive Ping: 23
+ - Transaction Ping: 24
+ - Server TPS: 20
+ - Sensitivity: 57
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 255.95 seconds ago
+
+Total Violations: 27
+ - Combat Violations: 0
+ - Movement Violations: 27
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 6852
+ - Since Riptide Ticks: 21461
+ - Flying Delay: 49
+ - Since Velocity Ticks: 5119
+ - Since Firework Ticks: 21461
+ - Ticks Existed: 24477
+ - Since Vehicle Ticks: 21361
+ - Since Liquid Ticks: 1112
+ - Queued Transactions: 0
+ - Joined: 1485 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{GOLDEN_CARROT x 20}
+
+All Violations:
+ - Jump (Type A) [VL: 25] (Invalid jump motion.)
+ - VClip (Type A) [VL: 2] (Large vertical movement.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Caothanh2008 was punished for Kill Aura (Type A) ]--------------
+
+Date & Time:
+ - Date: 10-01-2024
+ - Time: 11:06:02
+
+Location:
+ - World: world
+ - X: 111.06706983514506
+ - Y: 40.875
+ - Z: -983.6925446652909
+
+Information:
+ - UUID: 641bacf4-63d3-3a1f-afca-d94c11b93b84
+ - Keep Alive Ping: 25
+ - Transaction Ping: 54
+ - Server TPS: 20
+ - Sensitivity: 57
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 106.15 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 3
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 6865
+ - Since Riptide Ticks: 5940
+ - Flying Delay: 49
+ - Since Velocity Ticks: 2123
+ - Since Firework Ticks: 5940
+ - Ticks Existed: 6765
+ - Since Vehicle Ticks: 5840
+ - Since Liquid Ticks: 1304
+ - Queued Transactions: 0
+ - Joined: 525 seconds ago
+ - Holding Item (Main Hand): ItemStack{NETHERITE_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={FIRE_ASPECT=2, LOOT_BONUS_MOBS=3, MENDING=1, DAMAGE_ALL=5, SWEEPING_EDGE=3, DURABILITY=3}, repair-cost=63, Damage=1}}
+ - Holding Item (Off Hand): ItemStack{GOLDEN_CARROT x 22}
+
+All Violations:
+ - Kill Aura (Type A) [VL: 3] (Post UseEntity packets.)
+
+Blocks Nearby: [STONE, STONE, STONE, STONE, CHEST, CHEST, STONE, AIR, AIR, STONE, AIR, AIR, STONE, STONE, STONE, STONE, CHEST, CHEST, STONE, AIR, AIR, STONE, AIR, AIR, STONE, STONE, STONE, STONE, AIR, AIR, STONE, AIR, AIR, STONE, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [SPEED:(307t-x0), REGENERATION:(307t-x0), DAMAGE_RESISTANCE:(307t-x0)]
+---------------------------------------------------------------------------
+
+
+--------------[ khoi1309 was punished for Ground Spoof (Type A) ]--------------
+
+Date & Time:
+ - Date: 10-01-2024
+ - Time: 16:09:46
+
+Location:
+ - World: world
+ - X: 87.54156660322535
+ - Y: 118.48386613569484
+ - Z: -878.7482633662478
+
+Information:
+ - UUID: 43e904f7-2dd9-3eed-9e82-b54d51228095
+ - Keep Alive Ping: 35
+ - Transaction Ping: 73
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.19.4
+ - Last Damage: 16.2 seconds ago
+
+Total Violations: 37
+ - Combat Violations: 0
+ - Movement Violations: 16
+ - Player Violations: 21
+
+Misc Information:
+ - Since Teleport Ticks: 1084
+ - Since Riptide Ticks: 904
+ - Flying Delay: 1
+ - Since Velocity Ticks: 324
+ - Since Firework Ticks: 398
+ - Ticks Existed: 984
+ - Since Vehicle Ticks: 804
+ - Since Liquid Ticks: 65
+ - Queued Transactions: 0
+ - Joined: 96 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Ground Spoof (Type A) [VL: 15] (Spoofed onGround value.)
+ - Ground Spoof (Type C) [VL: 6] (Spoofed OnGround value.)
+ - VClip (Type A) [VL: 16] (Large vertical movement.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [FAST_DIGGING:(316t-x0), REGENERATION:(316t-x0)]
+---------------------------------------------------------------------------
+
+

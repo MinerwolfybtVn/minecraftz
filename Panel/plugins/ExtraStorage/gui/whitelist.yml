@@ -1,0 +1,52 @@
+Settings:
+  Title: '         &0ᴡʜɪᴛᴇʟɪꜱᴛ ꜰɪʟᴛᴇʀ'
+  Rows: 6
+
+  Sound: 'ui_button_click'
+
+RepresentItem:
+  Name: ''
+  Lore:
+  - ''
+  - '&c* By removing this item, it'
+  - '&cwill no longer be picked up'
+  - '&cto the player''s storage.'
+  - ''
+  - '&8[&6Click&8] &7Remove this item.'
+  Slots: [11-17, 20-26, 29-35]
+
+ControlItems:
+  PreviousPage:
+    Material: 'ARROW'
+    Name: '&8[&6ᴄʟɪᴄᴋ&8] #dcdde1ᴘʀᴇᴠɪᴏᴜs ᴘᴀɢᴇ'
+    Lore:
+    - '&7ᴄᴜʀʀᴇɴᴛ ᴘᴀɢᴇ: &f{page}&7/&c{max_pages}'
+    Slots: [49]
+  NextPage:
+    Material: 'ARROW'
+    CustomModelData: 0
+    Name: '&8[&6ᴄʟɪᴄᴋ&8] #dcdde1ɴᴇxᴛ ᴘᴀɢᴇ'
+    Lore:
+    - '&7ᴄᴜʀʀᴇɴᴛ ᴘᴀɢᴇ: &f{page}&7/&c{max_pages}'
+    Slots: [51]
+
+  SortByName:
+    Material: 'BOOK'
+    Name: '#dcdde1sᴏʀᴛ sᴛᴏʀᴀɢᴇ ᴄᴏɴᴛᴇɴᴛ'
+    Lore:
+    - ''
+    - '&2→ &aSort by name'
+    - ''
+    - '&8[&6ʟ.ᴄʟɪᴄᴋ&8] &7Sorting A - Z'
+    - '&8[&6R-Click&8] &7Sorting Z - A'
+    Slot: 50
+
+DecorateItems:
+  border:
+    Material: 'BLACK_STAINED_GLASS_PANE'
+    Name: ' '
+    Slots: [0-10, 18, 19, 27, 28, 36, 37, 45-49, 51-54]
+  divider:
+    Material: 'GRAY_STAINED_GLASS_PANE'
+    Name: ' '
+    Slots: [38-44]

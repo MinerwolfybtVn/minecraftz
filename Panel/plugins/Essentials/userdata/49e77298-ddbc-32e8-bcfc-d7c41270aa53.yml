@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 118.71.220.93
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727542232619
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727721517450
+  login: 1727721250863
+money: '0'
+last-account-name: xoaii
+logoutlocation:
+  world: 4446dd65-ac25-413b-b00a-e4a07ffeb151
+  world-name: world
+  x: 125.9931249951575
+  y: 63.5
+  z: -899.5124999880791
+  yaw: -172.8001251220703
+  pitch: 11.249788284301758
+lastlocation:
+  world: 4446dd65-ac25-413b-b00a-e4a07ffeb151
+  world-name: world
+  x: 133.06966936183971
+  y: 63.0
+  z: -880.4295623981703
+  yaw: 129.34161376953125
+  pitch: 22.753955841064453
+homes:
+  home:
+    world: 4446dd65-ac25-413b-b00a-e4a07ffeb151
+    world-name: world
+    x: 121.12003768511644
+    y: 63.0
+    z: -895.8201937932204
+    yaw: -5.248082160949707
+    pitch: 13.67721176147461

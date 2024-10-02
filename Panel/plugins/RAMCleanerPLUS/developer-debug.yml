@@ -1,0 +1,28 @@
+RAMCleanerULTRA Developer Debug File
+
+----Server Info----
+Server IP: **.**.***.***
+Server Port: 25600
+Java Version: 21.0.3
+Server Version: git-Purpur-1985 (MC: 1.19.4)
+Server Bukkit Version: 1.19.4-R0.1-SNAPSHOT
+Timestamp: 2024-09-22 14:32:58.124
+----Server Info End----
+
+----Config Settings----
+Max Ram: 12884901888
+Check Interval: 6000
+Debug: false
+Auto Notify: false
+----Config Settings End----
+
+----Debug----
+Keine Logs vorhanden.
+----Debug End----
+
+----RAM DATA----
+Gesamter RAM: 3170893824
+Benutzter RAM: 1968779704
+Freier RAM: 1864814152
+Zeitpunkt der RAM-Abfrage: 2024-09-22 14:32:58.124
+----RAM DATA End----

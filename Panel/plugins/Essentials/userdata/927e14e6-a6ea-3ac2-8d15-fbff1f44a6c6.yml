@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 42.113.163.117
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727582130216
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727582274233
+  login: 1727577257934
+money: '0'
+last-account-name: skibidi
+lastlocation:
+  world: 4446dd65-ac25-413b-b00a-e4a07ffeb151
+  world-name: world
+  x: 2783.0602302153866
+  y: -7.0
+  z: -2194.4606464744497
+  yaw: 93.27259826660156
+  pitch: 10.350028038024902
+homes:
+  home:
+    world: 4446dd65-ac25-413b-b00a-e4a07ffeb151
+    world-name: world
+    x: 2788.1771390636422
+    y: 71.0
+    z: -2290.1269661464844
+    yaw: -86.279541015625
+    pitch: 27.108366012573242
+logoutlocation:
+  world: 4446dd65-ac25-413b-b00a-e4a07ffeb151
+  world-name: world
+  x: 2786.908568150113
+  y: 42.0
+  z: -2213.814821940912
+  yaw: 175.351806640625
+  pitch: 5.4001145362854

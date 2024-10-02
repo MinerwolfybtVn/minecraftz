@@ -1,0 +1,136 @@
+Settings:
+  Title: '           &0bán vật phẩm'
+  Rows: 6
+
+  DefaultSort: MATERIAL
+
+  Sound: 'ui_button_click'
+
+RepresentItem:
+  Name: ''
+  Lore:
+  - ''
+  - '&7+ Trạng thái: &r{status}'
+  - '&7+ Bạn có: &e{quantity}'
+  - ''
+  - '&3* Giá: &b${price}'
+  - '&3* Số lượng: &bx{amount}'
+  - ''
+  - '&8[&6ʟ.ᴄʟɪᴄᴋ&8] &7Bán 1.'
+  - '&8[&6ʀ.ᴄʟɪᴄᴋ&8] &7Bán cả stack.'
+  - '&8[&6s.ᴄʟɪᴄᴋ&8] &7Bán tất cả.'
+  Slots: [11-17, 20-26, 29-35]
+
+ControlItems:
+  About:
+    Model: '' #Có thể không cần cấu hình.
+    Material: 'PAPER'
+    Amount: 1 #Có thể không cần cấu hình.
+    Data: 0 #Có thể không cần cấu hình.
+    Texture: '%player%'
+    CustomModelData: 0 #Chỉ có thể sử dụng trên server phiên bản 1.14+. Có thể không cần cấu hình.
+    Name: '#dcdde1thông tin kho người chơi' #Có thể không cần cấu hình.
+    Lore: #Có thể không cần cấu hình.
+    - ''
+    - '&7+ Chủ sở hữu: &b{player}'
+    - ''
+    - '&7+ Trạng thái: &r{status}'
+    - ''
+    - '&7+ Dung lượng: &e{space}'
+    - ''
+    - '&7+ Đã sử dụng: &f{used_space} &7/ &c{used_percent}'
+    - ''
+    - '&7+ Còn trống: &f{free_space} &7/ &c{free_percent}'
+    Slot: 50
+  PreviousPage:
+    Material: 'ARROW'
+    Name: '&8[&6ʟ.ᴄʟɪᴄᴋ&8] #dcdde1trang trước'
+    Lore:
+    - '&7trang hiện tại: &f{page}&7/&c{max_pages}'
+    Slot: 48
+  NextPage:
+    Material: 'ARROW'
+    Name: '&8[&6ʟ.ᴄʟɪᴄᴋ&8] #dcdde1trang tiếp theo'
+    Lore:
+    - '&7trang hiện tại: &f{page}&7/&c{max_pages}'
+    Slot: 52
+
+  SwitchGui:
+    Material: 'CHEST_MINECART'
+    Name: '#dcdde1chuyển sang kho khác'
+    Lore:
+    - ''
+    - '&8 ● &7Đối tác'
+    - '&8 ● &7Lọc'
+    - '&8 ● &7Kho lưu trữ'
+    - '&2→ &aBán vật phẩm'
+    - ''
+    - '&8[&6ʟ.ᴄʟɪᴄᴋ&8] #dcdde1chuyển đến kho tiếp theo'
+    - '&8[&6ʀ.ᴄʟɪᴄᴋ&8] #dcdde1trở về kho trước'
+    Slot: 49
+
+  SortByMaterial:
+    Material: 'BOOK'
+    Name: '#dcdde1sắp xếp theo loại vật phẩm'
+    Lore:
+    - ''
+    - '&2→ &aTheo vật liệu'
+    - '&8 ● &7Theo tên'
+    - '&8 ● &7Theo số lượng'
+    - '&8 ● &7Không lọc'
+    - ''
+    - '&8[&6ʟ.ᴄʟɪᴄᴋ&8] #dcdde1lọc tiếp theo'
+    - '&8[&6ʀ.ᴄʟɪᴄᴋ&8] #dcdde1lọc trước'
+    - '&8[&6s.ᴄʟɪᴄᴋ&8] #dcdde1đảo ngược lọc'
+    Slot: 51
+  SortByName:
+    Material: 'BOOK'
+    Name: '#dcdde1sắp xếp theo tên'
+    Lore:
+    - ''
+    - '&8 ● &7Theo vật liệu'
+    - '&2→ &aTheo tên'
+    - '&8 ● &7Theo số lượng'
+    - '&8 ● &7Không lọc'
+    - ''
+    - '&8[&6ʟ.ᴄʟɪᴄᴋ&8] #dcdde1lọc tiếp theo'
+    - '&8[&6ʀ.ᴄʟɪᴄᴋ&8] #dcdde1lọc trước'
+    - '&8[&6s.ᴄʟɪᴄᴋ&8] #dcdde1đảo ngược lọc'
+    Slot: 51
+  SortByQuantity:
+    Material: 'BOOK'
+    Name: '#dcdde1sắp xếp theo số lượng'
+    Lore:
+    - ''
+    - '&8 ● &7Theo vật liệu'
+    - '&8 ● &7Theo tên'
+    - '&2→ &aTheo số lượng'
+    - '&8 ● &7Không lọc'
+    - ''
+    - '&8[&6ʟ.ᴄʟɪᴄᴋ&8] #dcdde1lọc tiếp theo'
+    - '&8[&6ʀ.ᴄʟɪᴄᴋ&8] #dcdde1lọc trước'
+    - '&8[&6s.ᴄʟɪᴄᴋ&8] #dcdde1đảo ngược lọc'
+    Slot: 51
+  SortByUnfilter:
+    Material: 'BOOK'
+    Name: '#dcdde1sắp xếp không lọc'
+    Lore:
+    - ''
+    - '&8 ● &7Theo vật liệu'
+    - '&8 ● &7Theo tên'
+    - '&8 ● &7Theo số lượng'
+    - '&2→ &aKhông lọc'
+    - ''
+    - '&8[&6ʟ.ᴄʟɪᴄᴋ&8] #dcdde1lọc tiếp theo'
+    - '&8[&6ʀ.ᴄʟɪᴄᴋ&8] #dcdde1lọc trước'
+    Slot: 51
+
+DecorateItems:
+  border:
+    Material: 'BLACK_STAINED_GLASS_PANE'
+    Name: ' '
+    Slots: [0-10, 18, 19, 27, 28, 36, 37, 45, 46-48, 52-54]
+  divider:
+    Material: 'GRAY_STAINED_GLASS_PANE'
+    Name: ' '
+    Slots: [38-44]

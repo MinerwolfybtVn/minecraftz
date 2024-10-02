@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 113.22.213.111
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1726727589725
+  login: 1726727498363
+money: '0'
+last-account-name: kemherosss
+logoutlocation:
+  world: 4446dd65-ac25-413b-b00a-e4a07ffeb151
+  world-name: world
+  x: 181.69999998807907
+  y: 67.0
+  z: -289.30000001192093
+  yaw: 170.2058868408203
+  pitch: 33.48545837402344

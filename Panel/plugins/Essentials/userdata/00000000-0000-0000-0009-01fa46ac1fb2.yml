@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 14.178.74.22
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1726750537408
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727713103956
+  login: 1727712583763
+money: '0'
+last-account-name: Pe_MinerWolf1990
+logoutlocation:
+  world: 4446dd65-ac25-413b-b00a-e4a07ffeb151
+  world-name: world
+  x: 58.189583
+  y: 63.0
+  z: -938.916
+  yaw: 158.7447509765625
+  pitch: -89.89999389648438
+lastlocation:
+  world: 4446dd65-ac25-413b-b00a-e4a07ffeb151
+  world-name: world
+  x: 84.69999
+  y: 74.0
+  z: -931.8512
+  yaw: -98.00967407226562
+  pitch: 44.237701416015625

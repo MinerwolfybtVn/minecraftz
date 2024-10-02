@@ -1,0 +1,25 @@
+Worth:
+  COBBLESTONE:0:
+    Price: 8.0
+    Quantity: 8
+  COAL_BLOCK:0:
+    Price: 10.0
+    Quantity: 10
+  LAPIS_BLOCK:0:
+    Price: 12.0
+    Quantity: 16
+  REDSTONE_BLOCK:0:
+    Price: 13.0
+    Quantity: 16
+  IRON_BLOCK:0:
+    Price: 16.0
+    Quantity: 8
+  GOLD_BLOCK:0:
+    Price: 15.0
+    Quantity: 8
+  DIAMOND_BLOCK:0:
+    Price: 18.0
+    Quantity: 4
+  EMERALD_BLOCK:0:
+    Price: 18.0
+    Quantity: 4

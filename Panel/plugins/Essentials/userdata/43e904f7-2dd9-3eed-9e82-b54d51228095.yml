@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 123.19.107.81
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1727862973828
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727864496451
+  login: 1727862656668
+money: '0'
+last-account-name: khoi1309
+homes:
+  home:
+    world: 4446dd65-ac25-413b-b00a-e4a07ffeb151
+    world-name: world
+    x: 96.47319483869067
+    y: 72.0
+    z: -961.2335759003828
+    yaw: 148.58108520507812
+    pitch: 24.41547393798828
+logoutlocation:
+  world: 4446dd65-ac25-413b-b00a-e4a07ffeb151
+  world-name: world
+  x: 98.9009114970727
+  y: 62.0
+  z: -960.34572477095
+  yaw: 145.81396484375
+  pitch: 23.399805068969727
+lastlocation:
+  world: 4446dd65-ac25-413b-b00a-e4a07ffeb151
+  world-name: world
+  x: -209.56702381820003
+  y: 156.9375
+  z: -755.4573189436489
+  yaw: -6.162225246429443
+  pitch: 34.211090087890625
