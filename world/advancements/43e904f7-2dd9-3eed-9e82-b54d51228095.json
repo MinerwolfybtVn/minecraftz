@@ -1552,6 +1552,7 @@
       "minecraft:magma_cube": "2024-09-25 13:39:22 +0700",
       "minecraft:spider": "2024-09-18 20:49:18 +0700",
       "minecraft:creeper": "2024-09-18 20:53:13 +0700",
+      "minecraft:phantom": "2024-10-02 21:39:04 +0700",
       "minecraft:zombified_piglin": "2024-09-24 21:52:20 +0700",
       "minecraft:witch": "2024-09-20 15:50:02 +0700",
       "minecraft:wither_skeleton": "2024-09-21 16:18:54 +0700",
@@ -3771,6 +3772,36 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-10-02 13:52:47 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-10-02 20:43:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-10-02 20:52:54 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-10-03 16:50:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-10-03 16:50:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-10-03 16:50:39 +0700"
     },
     "done": true
   },
